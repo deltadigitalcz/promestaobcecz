@@ -65,11 +65,11 @@ Main contain START -->
                     <div class="tab-pane" id="tab-7-2">
                         <div class="row g-3 align-items-center justify-content-between">
                             <div class="col-md-8">
-                                <h2>Ediční plán 2023</h2>
+                                <h2>Ediční plán 2024</h2>
                             </div>
                             <!-- Tab buttons -->
                             <div class="col-md-3">
-                                <a href="<?php echo get_template_directory_uri() ?>/assets/files/Edicni_plan_PROmo_2023.pdf" target="_blank"class="bg-primary py-2 px-3 text-white rounded ms-2">Stáhnout v PDF</a>
+                                <a href="<?php echo get_template_directory_uri() ?>/assets/files/Edicni_plan_PROmo_2024.pdf" target="_blank"class="bg-primary py-2 px-3 text-white rounded ms-2">Stáhnout v PDF</a>
                             </div>
                         </div>    
                         <div class="row">
@@ -84,14 +84,14 @@ Main contain START -->
                                             <div class="d-flex align-items-center">
                                                 <!-- Info -->
                                                 <div class="ms-1">
-                                                    <h5 class="mb-0">Leden 2023</h5>
+                                                    <h5 class="mb-0">Leden 2024</h5>
                                                     <p class="mb-0 small">#1</p>
                                                 </div>
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 14.12</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 9.1</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15.12</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 8.1</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -116,7 +116,8 @@ Main contain START -->
                                                 <ul class="list-group list-group-borderless">
                                                     <li class="list-group-item">
                                                         <span>Speciální příloha:</span>
-                                                        <span class="h6 mb-0"><strong>Technické služby</strong>, stroje, údržba obce</span>
+                                                        <span class="h6 mb-0"><strong>Technické služby</strong>, stroje, údržba obce. </span>
+                                                        <span class="h6 mb-0">Energetika, solární panely, financování a úspory.</span>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -126,7 +127,7 @@ Main contain START -->
                                                 <ul class="list-group list-group-borderless">
                                                     <li class="list-group-item">
                                                         <span>Krajská příloha:</span>
-                                                        <span class="h6 mb-0">Pardubický kraj</span>
+                                                        <span class="h6 mb-0">Ústecký kraj</span>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -147,14 +148,14 @@ Main contain START -->
                                             <div class="d-flex align-items-center">
                                                 <!-- Info -->
                                                 <div class="ms-1">
-                                                    <h5 class="mb-0">Únor 2023</h5>
+                                                    <h5 class="mb-0">Únor 2024</h5>
                                                     <p class="mb-0 small">#2</p>
                                                 </div>
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 13.1</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 6.2</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15.1</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 5.2</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -210,14 +211,14 @@ Main contain START -->
                                             <div class="d-flex align-items-center">
                                                 <!-- Info -->
                                                 <div class="ms-1">
-                                                    <h5 class="mb-0">Březen 2023</h5>
+                                                    <h5 class="mb-0">Březen 2024</h5>
                                                     <p class="mb-0 small">#3</p>
                                                 </div>
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 17.2</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 6.3</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 16.2</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 4.3</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -242,7 +243,7 @@ Main contain START -->
                                                 <ul class="list-group list-group-borderless">
                                                     <li class="list-group-item">
                                                         <span>Speciální příloha:</span>
-                                                        <span class="h6 mb-0"><strong>Smart technologie (informační systémy)</strong>, ISSS 2023</span>
+                                                        <span class="h6 mb-0"><strong>Smart technologie (informační systémy)</strong>, ISSS 2024</span>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -270,11 +271,29 @@ Main contain START -->
                                                                         <!-- Table item -->
                                                                         <tr>
                                                                             <td>
-                                                                                <h6 class="table-title mt-2 mt-md-0 mb-0">ISSS 2023</h6>
+                                                                                <h6 class="table-title mt-2 mt-md-0 mb-0">ISSS 2024</h6>
                                                                             </td>
-                                                                            <td>15. - 16.5.2023</td>
+                                                                            <td>13. - 14.5.2024</td>
                                                                             <td>
                                                                                 <span class="badge bg-success bg-opacity-10 text-success mb-2">Hradec Králové</span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>
+                                                                                <h6 class="table-title mt-2 mt-md-0 mb-0">VIII. Mezinárodní konference obecních policií</h6>
+                                                                            </td>
+                                                                            <td>-</td>
+                                                                            <td>
+                                                                                <span class="badge bg-success bg-opacity-10 text-success mb-2">Olomouc</span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>
+                                                                                <h6 class="table-title mt-2 mt-md-0 mb-0">Dny malých obcí</h6>
+                                                                            </td>
+                                                                            <td>19. a 26.3.2024</td>
+                                                                            <td>
+                                                                                <span class="badge bg-success bg-opacity-10 text-success mb-2">Olomouc a Praha</span>
                                                                             </td>
                                                                         </tr>
                                                                     </tbody>
@@ -301,14 +320,14 @@ Main contain START -->
                                             <div class="d-flex align-items-center">
                                                 <!-- Info -->
                                                 <div class="ms-1">
-                                                    <h5 class="mb-0">Duben 2023</h5>
+                                                    <h5 class="mb-0">Duben 2024</h5>
                                                     <p class="mb-0 small">#4</p>
                                                 </div>
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 10.3</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 3.4</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 18.3</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 8.4</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -361,16 +380,34 @@ Main contain START -->
                                                                         <!-- Table item -->
                                                                         <tr>
                                                                             <td>
-                                                                                <h6 class="table-title mt-2 mt-md-0 mb-0">Dny malých obcí</h6>
+                                                                                <h6 class="table-title mt-2 mt-md-0 mb-0">Celostátní setkání tajemníků ČR</h6>
                                                                             </td>
                                                                             <td>-</td>
                                                                             <td>
-                                                                                <span class="badge bg-success bg-opacity-10 text-success mb-2">Olomouc / Praha</span>
+                                                                                <span class="badge bg-success bg-opacity-10 text-success mb-2">-</span>
                                                                             </td>
                                                                         </tr>
                                                                         <tr>
                                                                             <td>
-                                                                                <h6 class="table-title mt-2 mt-md-0 mb-0">Celostátní setkání tajemníků ČR</h6>
+                                                                                <h6 class="table-title mt-2 mt-md-0 mb-0">Dny teplárenství a energetiky</h6>
+                                                                            </td>
+                                                                            <td>23.-24.4.2024</td>
+                                                                            <td>
+                                                                                <span class="badge bg-success bg-opacity-10 text-success mb-2">Olomouc</span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>
+                                                                                <h6 class="table-title mt-2 mt-md-0 mb-0">Celostátní setkání tajemníků</h6>
+                                                                            </td>
+                                                                            <td>19.-21.5.2024</td>
+                                                                            <td>
+                                                                                <span class="badge bg-success bg-opacity-10 text-success mb-2">Špindlerův mlýn</span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>
+                                                                                <h6 class="table-title mt-2 mt-md-0 mb-0">Sdružení pro veřejné osvětlení</h6>
                                                                             </td>
                                                                             <td>-</td>
                                                                             <td>
@@ -401,14 +438,14 @@ Main contain START -->
                                             <div class="d-flex align-items-center">
                                                 <!-- Info -->
                                                 <div class="ms-1">
-                                                    <h5 class="mb-0">Květen 2023</h5>
+                                                    <h5 class="mb-0">Květen 2024</h5>
                                                     <p class="mb-0 small">#5</p>
                                                 </div>
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 7.4</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 2.5</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15.4</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 6.5</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -433,7 +470,7 @@ Main contain START -->
                                                 <ul class="list-group list-group-borderless">
                                                     <li class="list-group-item">
                                                         <span>Speciální příloha:</span>
-                                                        <span class="h6 mb-0"><strong>Energetika</strong></span>
+                                                        <span class="h6 mb-0"><strong>Energetika, vodovody, kanalizace</strong></span>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -443,7 +480,7 @@ Main contain START -->
                                                 <ul class="list-group list-group-borderless">
                                                     <li class="list-group-item">
                                                         <span>Krajská příloha:</span>
-                                                        <span class="h6 mb-0">Liberecký kraj</span>
+                                                        <span class="h6 mb-0">Pardubický kraj</span>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -462,6 +499,15 @@ Main contain START -->
                                                                         <tr>
                                                                             <td>
                                                                                 <h6 class="table-title mt-2 mt-md-0 mb-0">Konference školství</h6>
+                                                                            </td>
+                                                                            <td>-</td>
+                                                                            <td>
+                                                                                <span class="badge bg-success bg-opacity-10 text-success mb-2">-</span>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td>
+                                                                                <h6 class="table-title mt-2 mt-md-0 mb-0">23. mezinárodní vodohospodářská výstava VOD - KA</h6>
                                                                             </td>
                                                                             <td>-</td>
                                                                             <td>
@@ -492,14 +538,14 @@ Main contain START -->
                                             <div class="d-flex align-items-center">
                                                 <!-- Info -->
                                                 <div class="ms-1">
-                                                    <h5 class="mb-0">Červen 2023</h5>
+                                                    <h5 class="mb-0">Červen 2024</h5>
                                                     <p class="mb-0 small">#6</p>
                                                 </div>
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 12.5</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 5.6</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 13.5</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 3.6</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -583,14 +629,14 @@ Main contain START -->
                                             <div class="d-flex align-items-center">
                                                 <!-- Info -->
                                                 <div class="ms-1">
-                                                    <h5 class="mb-0">Červenec 2023</h5>
+                                                    <h5 class="mb-0">Červenec 2024</h5>
                                                     <p class="mb-0 small">#7</p>
                                                 </div>
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 9.6</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 3.7</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 10.6</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 1.7</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -646,14 +692,14 @@ Main contain START -->
                                             <div class="d-flex align-items-center">
                                                 <!-- Info -->
                                                 <div class="ms-1">
-                                                    <h5 class="mb-0">Srpen 2023</h5>
+                                                    <h5 class="mb-0">Srpen 2024</h5>
                                                     <p class="mb-0 small">#8</p>
                                                 </div>
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 14.7</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 7.8</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15.7</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 5.8</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -709,14 +755,14 @@ Main contain START -->
                                             <div class="d-flex align-items-center">
                                                 <!-- Info -->
                                                 <div class="ms-1">
-                                                    <h5 class="mb-0">Září 2023</h5>
+                                                    <h5 class="mb-0">Září 2024</h5>
                                                     <p class="mb-0 small">#9</p>
                                                 </div>
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 11.8</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 4.9</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 12.8</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 2.9</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -809,14 +855,14 @@ Main contain START -->
                                             <div class="d-flex align-items-center">
                                                 <!-- Info -->
                                                 <div class="ms-1">
-                                                    <h5 class="mb-0">Říjen 2023</h5>
+                                                    <h5 class="mb-0">Říjen 2024</h5>
                                                     <p class="mb-0 small">#10</p>
                                                 </div>
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 8.9</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 2.10</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 16.9</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 7.10</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -880,9 +926,9 @@ Main contain START -->
                                                                             <td>
                                                                                 <h6 class="table-title mt-2 mt-md-0 mb-0">Celostátní setkání tajemníků ČR</h6>
                                                                             </td>
-                                                                            <td>-</td>
+                                                                            <td>13.-15.10.2024</td>
                                                                             <td>
-                                                                                <span class="badge bg-success bg-opacity-10 text-success mb-2">-</span>
+                                                                                <span class="badge bg-success bg-opacity-10 text-success mb-2">Tábor</span>
                                                                             </td>
                                                                         </tr>
                                                                     </tbody>
@@ -909,14 +955,14 @@ Main contain START -->
                                             <div class="d-flex align-items-center">
                                                 <!-- Info -->
                                                 <div class="ms-1">
-                                                    <h5 class="mb-0">Listopad 2023</h5>
+                                                    <h5 class="mb-0">Listopad 2024</h5>
                                                     <p class="mb-0 small">#11</p>
                                                 </div>
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 13.10</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 6.11</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 14.10</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 4.11</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -976,6 +1022,15 @@ Main contain START -->
                                                                                 <span class="badge bg-success bg-opacity-10 text-success mb-2">Praha</span>
                                                                             </td>
                                                                         </tr>
+                                                                        <tr>
+                                                                            <td>
+                                                                                <h6 class="table-title mt-2 mt-md-0 mb-0">Vyhlášení České společnosti pro jakost</h6>
+                                                                            </td>
+                                                                            <td>-</td>
+                                                                            <td>
+                                                                                <span class="badge bg-success bg-opacity-10 text-success mb-2">Praha</span>
+                                                                            </td>
+                                                                        </tr>
                                                                     </tbody>
                                                                     <!-- Table body END -->
                                                                 </table>
@@ -1000,14 +1055,14 @@ Main contain START -->
                                             <div class="d-flex align-items-center">
                                                 <!-- Info -->
                                                 <div class="ms-1">
-                                                    <h5 class="mb-0">Prosinec 2023</h5>
+                                                    <h5 class="mb-0">Prosinec 2024</h5>
                                                     <p class="mb-0 small">#12</p>
                                                 </div>
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 10.11</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 4.12</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 11.11</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 2.12</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -1069,8 +1124,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15.12</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 9.1</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 9.12</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 6.1</h6>
                                             </div>
                                         </div>
                                     </div>

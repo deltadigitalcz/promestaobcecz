@@ -29,15 +29,27 @@ Main contain START -->
 		<div class="row g-4">
 			<div class="col-12">
                 <ul class="nav nav-tabs nav-tabs-line">
-                    <li class="nav-item"> <a class="nav-link active" data-bs-toggle="tab" href="#tab-7-1">Struktura čtenářů</a> </li>
+                    <li class="nav-item"> <a class="nav-link active" data-bs-toggle="tab" href="#tab-7-0">Úvod</li>
+                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-1">Struktura čtenářů</a> </li>
                     <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-2">Ediční plán</a> </li>
-                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-3">Časopis</a> </li>
+                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-3">Print</a> </li>
                     <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-4">Web</a> </li>
                     <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-5">Newsletter</a> </li>
-                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-6">Kreditový systém <span class="badge bg-danger smaller me-1">Novinka</span></a> </li>
                     <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-7">Kontakt</a> </li>
                 </ul>
                 <div class="tab-content">
+                    <div class="tab-pane" id="tab-7-0">
+                        <div class="row">
+                            <div id="item-4">
+                                <h4 class="mt-4">Vítejte ve světě 'PRO města a obce'</h4>
+                                <p>Vážení partneři,<br> s potěšením vám představujeme mediakit našeho časopisu 'PRO města a obce', který již deset let slouží jako důvěryhodný a respektovaný zdroj informací ve světě veřejné správy. Připojte se k nám a oslovte cílovou skupinu v oblasti veřejné správy.</p>
+                                <p>Naše cesta začala v roce 2014 a od té doby jsme se stali lídrem na trhu, specializujícím se na poskytování aktuálních a relevantních informací pro starosty, hejtmany, zastupitele a úředníky, ale i pro širokou veřejnost se zájmem o veřejnou správu. Přinášíme praktické rady a nezbytná fakta pro každodenní rozhodování našich čtenářů.</p>
+                                <p>V naší nabídce naleznete jak tradiční tištěné vydání, tak moderní online platformy včetně pravidelných newsletterů. Tímto způsobem zasahujeme široké spektrum čtenářů a zvyšujeme viditelnost vaší značky.</p>
+                                <p>V následujících záložkách naleznete detailní informace o možnostech inzerce, včetně ceníku, formátů, rozměrů a statistik, které vám pomohou při výběru ideálního reklamního prostoru.<p>
+                                <p>Jsme přesvědčeni, že vaše spolupráce s námi bude úspěšná a přinese vám hodnotné kontakty a nové příležitosti.<br><br>S úctou,<br>Tým časopisu 'PRO města a obce'</p>
+                            </div>
+                        </div>
+                    </div>
                     <div class="tab-pane show active" id="tab-7-1">
                         <div class="row g-2">
                             <div class="col-md-6">
@@ -1183,10 +1195,16 @@ Main contain START -->
                                         <div class="row g-3 align-items-center justify-content-between">
                                             <!-- Search bar -->
                                             <div class="col-md-8">
-                                                <h2>Přehled inzertních formátů - časopis</h2>
+                                                <h2>Oslovte čtenáře přímo v jejich rukou</h2>
                                             </div>
                                             <!-- Tab buttons -->
                                             <div class="col-md-3">
+                                                <a href="https://ctecka.promestaobce.cz/prosinec_sdGsG442g/" target="_blank"class="bg-primary py-2 px-3 text-white rounded ms-2">Ukázkové vydání</a>
+                                            </div>
+                                            <div class="col-12">
+                                                <p>Časopisu 'PRO města a obce' poskytuje jedinečnou příležitost pro vaši reklamu. Jako měsíčník jsme prezentováni v tištěné i elektronické formě s nákladem <strong>2500 až 3000 výtisků</strong>. Naše distribuce je cílená a flexibilní, zaměřujeme se na předplatitele a nabízíme řízenou distribuci podle vašich specifikací – od velikosti obce přes pozici příjemce až po konkrétní kraj.</p>
+                                                <p>Navzdory obecnému poklesu tištěných médií náš časopis v cílové skupině veřejné správy stále získává na popularitě. Nabízíme různé formáty reklamy: od tradičních reklamních ploch, přes vklady letáků, až po přiložení dalších materiálů. Nezapomínejte ani na možnost publikace PR článků, které poskytují prostor pro rozšířenou prezentaci vaší značky.</p>
+                                                <p>Prohlédněte si ukázkové vydání a zjistěte, jak může váš inzerát v našem časopise vypadat.</p>
                                             </div>
                                         </div>
                                         <!-- Search and select END -->
@@ -1197,7 +1215,100 @@ Main contain START -->
                                     <div class="card-body p-3 pb-0">
                                         <!-- Tabs content START -->
                                         <div class="tab-content py-0 my-0">
+                                            <h3>Nejžádanější reklamní plochy:</h3>
+                                            <!-- Tabs content item START -->
+                                            <div class="tab-pane fade active show">
+                                                <!-- Table START -->
+                                                <div class="table-responsive border-0">
+                                                    <table class="table align-middle p-4 mb-0 table-hover">
+                                                        <!-- Table head -->
+                                                        <thead class="table-dark">
+                                                            <tr>
+                                                                <th scope="col" class="border-0 rounded-start" style="min-width: 50px;"></th>
+                                                                <th scope="col" class="border-0 rounded-start">Typ</th>
+                                                                <th scope="col" class="border-0">Na zrcadlo</th>
+                                                                <th scope="col" class="border-0">Na spad</th>
+                                                                <th scope="col" class="border-0">Cena</th>
+                                                                <th scope="col" class="border-0 rounded-end"></th>
+                                                            </tr>
+                                                        </thead>
 
+                                                        <!-- Table body START -->
+                                                        <tbody class="border-top-0">
+                                                            <!-- Table row -->
+                                                            <tr>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_02.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_02s.jpg" class="img-fluid rounded" alt=""></a>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <h6 class="mb-0">1/1</h6>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>182 x 258 mm</td>
+                                                                <!-- Table data -->
+                                                                <td>210 x 297 mm</td>
+                                                                <!-- Table data -->
+                                                                <td>xyz Kč</td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <div class="d-flex gap-2">
+                                                                    </div>
+                                                                </td>
+                                                            </tr> 
+                                                            <!-- Table row -->
+                                                            <tr>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_04.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_04s.jpg" class="img-fluid rounded" alt=""></a>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <h6 class="mb-0">1/2</h6>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>182 x 128 mm</td>
+                                                                <!-- Table data -->
+                                                                <td>210 x 148 mm</td>
+                                                                <!-- Table data -->
+                                                                <td>xyz Kč</td>                                                                
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <div class="d-flex gap-2">
+                                                                    </div>
+                                                                </td>
+                                                            </tr>                                                                                                                 
+                                                            <!-- Table row -->
+                                                            <tr>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_07.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_07s.jpg" class="img-fluid rounded" alt=""></a>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <h6 class="mb-0">1/3</h6>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>182 x 82 mm</td>
+                                                                <!-- Table data -->
+                                                                <td>210 x 99 mm</td>
+                                                                <!-- Table data -->
+                                                                <td>xyz Kč</td>                                                                
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <div class="d-flex gap-2">
+                                                                    </div>
+                                                                </td>
+                                                            </tr>                                                        
+                                                        </tbody>
+                                                        <!-- Table body END -->
+                                                    </table>
+                                                </div>
+                                                <!-- Table END -->
+                                            </div>
+                                            <!-- Tabs content item END -->
+                                            <h3>Ostatní reklamní plochy:</h3>
                                             <!-- Tabs content item START -->
                                             <div class="tab-pane fade active show">
                                                 <!-- Table START -->
@@ -1240,26 +1351,6 @@ Main contain START -->
                                                             <tr>
                                                                 <!-- Table data -->
                                                                 <td>
-                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_02.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_02s.jpg" class="img-fluid rounded" alt=""></a>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <h6 class="mb-0">1/1</h6>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>182 x 258 mm</td>
-                                                                <!-- Table data -->
-                                                                <td>210 x 297 mm</td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <div class="d-flex gap-2">
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <!-- Table row -->
-                                                            <tr>
-                                                                <!-- Table data -->
-                                                                <td>
                                                                     <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_03.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_03s.jpg" class="img-fluid rounded" alt=""></a>
                                                                 </td>
                                                                 <!-- Table data -->
@@ -1275,27 +1366,7 @@ Main contain START -->
                                                                     <div class="d-flex gap-2">
                                                                     </div>
                                                                 </td>
-                                                            </tr>       
-                                                            <!-- Table row -->
-                                                            <tr>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_04.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_04s.jpg" class="img-fluid rounded" alt=""></a>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <h6 class="mb-0">1/2</h6>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>182 x 128 mm</td>
-                                                                <!-- Table data -->
-                                                                <td>210 x 148 mm</td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <div class="d-flex gap-2">
-                                                                    </div>
-                                                                </td>
-                                                            </tr>                                                                                                                 
+                                                            </tr>                                                                                                                     
                                                             <!-- Table row -->
                                                             <tr>
                                                                 <!-- Table data -->
@@ -1335,27 +1406,7 @@ Main contain START -->
                                                                     <div class="d-flex gap-2">
                                                                     </div>
                                                                 </td>
-                                                            </tr>
-                                                            <!-- Table row -->
-                                                            <tr>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_07.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_07s.jpg" class="img-fluid rounded" alt=""></a>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <h6 class="mb-0">1/3</h6>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>182 x 82 mm</td>
-                                                                <!-- Table data -->
-                                                                <td>210 x 99 mm</td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <div class="d-flex gap-2">
-                                                                    </div>
-                                                                </td>
-                                                            </tr>                                                        
+                                                            </tr>                                                
                                                             <!-- Table row -->
                                                             <tr>
                                                                 <!-- Table data -->
@@ -1889,41 +1940,6 @@ Main contain START -->
                                     <!-- Card Footer END -->
                                 </div>
                                 <!-- Card END -->
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane" id="tab-7-6">
-                        <div class="row">
-                            <div id="item-4">
-                                <h4 class="mt-4">Inzertní kreditový systém</h4>
-                                <p>Vyslyšeli jsme váš požadavek na zvýhodněný balíček inzerce a vytvořili jsme kreditový systém, který můžete využít jakkoliv podle vašich potřeb následujících 12 měsíců od jeho zakoupení. Lze využít jak na inzerci v časopise, tak i na webu promestaobce.cz a newsletteru. Ceny inzerce se vám zastropují na aktuálních cenách, takže v případě růstu cen inzerce vás tato změna neovlivní. Samozřejmě, pokud by cena inzerce klesla, tak klesne cena i vám. Ušetříte si také práci s fakturací, protože vše vyřešíte jednou fakturou ročně. A to nejlepší nakonec, při objednávce kreditu získáte 20-30% kreditu zdarma navíc. </p>
-                                <div class="row">
-                                    <div class="col-md-6 my-3">
-                                        <h4>Výhody</h4>
-                                        <ul class="list-unstyled">
-                                            <li class="my-2 d-flex">
-                                                <i class="fas fa-check-circle text-success me-2 mt-1"></i>Získáte 20-30% kreditu navíc zdarma.</li>
-                                            <li class="my-2 d-flex">
-                                                <i class="fas fa-check-circle text-success me-2 mt-1"></i>Zastropované ceny inzerce.</li>                                                
-                                            <li class="my-2 d-flex">
-                                                <i class="fas fa-check-circle text-success me-2 mt-1"></i>Možnost využít kredit napříč platformami (časopis / web / newsletter).</li>
-                                            <li class="my-2 d-flex">
-                                                <i class="fas fa-check-circle text-success me-2 mt-1"></i>Čerpání kreditu kdykoliv během následujících 12ti měsíců.</li>
-                                            <li class="my-2 d-flex">
-                                                <i class="fas fa-check-circle text-success me-2 mt-1"></i>Možnost využití kreditu pro více klientů (agentury).</li>
-                                            <li class="my-2 d-flex">
-                                                <i class="fas fa-check-circle text-success me-2 mt-1"></i>Fakturace jednou ročně.</li>
-                                        </ul>
-                                    </div>
-                                    <div class="col-md-6 my-3">
-                                        <h4>Nevýhody</h4>
-                                        <ul class="list-unstyled">
-                                            <li class="my-2 d-flex">
-                                                <i class="fas fa-times-circle text-danger me-2 mt-1"></i>Minimální výše zakoupeného kreditu je 50.000Kč.
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>

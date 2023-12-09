@@ -1196,7 +1196,7 @@ Main contain START -->
                                         <div class="row g-3 align-items-center justify-content-between">
                                             <!-- Search bar -->
                                             <div class="col-md-8">
-                                                <h2>Oslovte čtenáře přímo v jejich rukou</h2>
+                                                <h2>Časopis Pro města a obce: Oslovte čtenáře přímo v jejich rukou</h2>
                                             </div>
                                             <!-- Tab buttons -->
                                             <div class="col-md-3">
@@ -1490,7 +1490,7 @@ Main contain START -->
                                         <div class="row g-3 align-items-center justify-content-between">
                                             <!-- Search bar -->
                                             <div class="col-md-8">
-                                                <h2>Digitální rozšíření vaší značky</h2>
+                                                <h2>Portál Pro města a obce: Digitální rozšíření vaší značky</h2>
                                             </div>
                                             <!-- Tab buttons -->
                                             <div class="col-md-3">
@@ -1824,7 +1824,7 @@ Main contain START -->
                                         <div class="row g-3 align-items-center justify-content-between">
                                             <!-- Search bar -->
                                             <div class="col-md-8">
-                                                <h2>Cílená komunikace s vašimi klíčovými zákazníky</h2>
+                                                <h2>Newsletter: Cílená komunikace s vašimi klíčovými zákazníky</h2>
                                             </div>
                                             <!-- Tab buttons -->
                                             <div class="col-md-3">
@@ -2006,11 +2006,10 @@ Main contain START -->
                     <div class="tab-pane" id="tab-7-7">
                         <div class="row">
                             <div class="col-12">
-                                <h3>Mediální partnerství</h3>
-                                <p>Máte dotaz ohledně inzerce, chcete vytvořit cenovou nabídku, nebo máte zajem o individuální formát reklamy? Kontaktujte nás.</p>
-                                <p>Petr Pfleger<br>
-                                Tel.: <a href="tel:+420603198873">+420 603 198 873</a><u></u><br>
-                                Email: <a href="mailto:petr.pfleger@promestaobce.cz"><u>petr.pfleger@promestaobce.cz</u></a></p>
+                                <h3>Mediální partnerství: Spolupracujme pro vzájemný úspěch</h3>
+                                <p>V 'PRO města a obce' se aktivně věnujeme rozvoji a podpoře mediálních partnerství. Věříme, že spolupráce s organizacemi a akcemi zaměřenými na veřejnou správu přináší oboustranně prospěšné výsledky. Naše zkušenosti a dosah v oblasti veřejné správy nám umožňují být významnými partnery prestižních akcí a projektů v tomto sektoru, jako je například XYZ.</p>
+                                <p>Pokud máte zájem o vytvoření mediálního partnerství s naším časopisem, neváhejte nás kontaktovat pro další informace. Společně můžeme vytvořit efektivní strategie pro propagaci vaší akce nebo projektu prostřednictvím našich tištěných a digitálních kanálů.</p>
+                                <p>Níže naleznete podklady pro vaše marketingové týmy, včetně našeho loga a používaných barev, které vám pomohou vytvořit materiály, jež budou v souladu s naším brandem.</p>
                             </div>
                         </div>
                     </div>                    

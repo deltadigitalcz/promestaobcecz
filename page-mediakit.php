@@ -1196,7 +1196,7 @@ Main contain START -->
                                         <div class="row g-3 align-items-center justify-content-between">
                                             <!-- Search bar -->
                                             <div class="col-md-8">
-                                                <h2>Časopis Pro města a obce: Oslovte čtenáře přímo v jejich rukou</h2>
+                                                <h2>Časopis Pro města a obce:<br>Oslovte čtenáře přímo v jejich rukou</h2>
                                             </div>
                                             <!-- Tab buttons -->
                                             <div class="col-md-3">
@@ -1490,7 +1490,7 @@ Main contain START -->
                                         <div class="row g-3 align-items-center justify-content-between">
                                             <!-- Search bar -->
                                             <div class="col-md-8">
-                                                <h2>Portál Pro města a obce: Digitální rozšíření vaší značky</h2>
+                                                <h2>Portál Pro města a obce:<br>Digitální rozšíření vaší značky</h2>
                                             </div>
                                             <!-- Tab buttons -->
                                             <div class="col-md-3">
@@ -1824,7 +1824,7 @@ Main contain START -->
                                         <div class="row g-3 align-items-center justify-content-between">
                                             <!-- Search bar -->
                                             <div class="col-md-8">
-                                                <h2>Newsletter: Cílená komunikace s vašimi klíčovými zákazníky</h2>
+                                                <h2>Newsletter:<br>Cílená komunikace s vašimi klíčovými zákazníky</h2>
                                             </div>
                                             <!-- Tab buttons -->
                                             <div class="col-md-3">
@@ -1832,7 +1832,7 @@ Main contain START -->
                                             </div>
                                             <div class="col-12">
                                                 <p>Naše newslettery poskytují jedinečnou příležitost pro přímou a cílenou komunikaci s vysoce angažovanými čtenáři. Newsletter 'PRO města a obce' vychází každé úterý a je distribuován dvěma hlavním skupinám odběratelů.</p>
-                                                <p>VIP skupina, se zhruba <strong>7000 aktivními odběrateli<strong>, je charakteristická vysokou mírou interakce. Členové této skupiny pravidelně klikají na články a reklamní bannery a aktivně se zapojují do našich pravidelných otázek týdne v newsletteru. Druhou skupinou je přibližně 14000 čtenářů, kteří jsou méně aktivní, ale přesto tvoří důležitou součást naší čtenářské základny.</p>
+                                                <p>VIP skupina, se zhruba <strong>7000 aktivními odběrateli</strong>, je charakteristická vysokou mírou interakce. Členové této skupiny pravidelně klikají na články a reklamní bannery a aktivně se zapojují do našich pravidelných otázek týdne v newsletteru. Druhou skupinou je přibližně 14000 čtenářů, kteří jsou méně aktivní, ale přesto tvoří důležitou součást naší čtenářské základny.</p>
                                                 <p>S průměrným <strong>Open Rate 32 %</strong> nabízí náš newsletter vynikající příležitost pro efektivní dosažení vaší cílové skupiny. Naše kampaně můžeme cílit specificky podle kraje, velikosti obce či specifické pozice na úřadu, což umožňuje přesně oslovit vámi vybranou demografii.</p>
                                                 <p>Prohlédněte si ukázkové vydání našeho newsletteru a zjistěte, jak může vaše reklama vypadat a působit na naše čtenáře.</p>
                                             </div>
@@ -2004,9 +2004,9 @@ Main contain START -->
                         </div>
                     </div>
                     <div class="tab-pane" id="tab-7-7">
-                        <div class="row">
+                        <div class="row g-4">
                             <div class="col-12">
-                                <h3>Mediální partnerství: Spolupracujme pro vzájemný úspěch</h3>
+                                <h3>Mediální partnerství:<br>Spolupracujme pro vzájemný úspěch</h3>
                                 <p>V 'PRO města a obce' se aktivně věnujeme rozvoji a podpoře mediálních partnerství. Věříme, že spolupráce s organizacemi a akcemi zaměřenými na veřejnou správu přináší oboustranně prospěšné výsledky. Naše zkušenosti a dosah v oblasti veřejné správy nám umožňují být významnými partnery prestižních akcí a projektů v tomto sektoru, jako je například XYZ.</p>
                                 <p>Pokud máte zájem o vytvoření mediálního partnerství s naším časopisem, neváhejte nás kontaktovat pro další informace. Společně můžeme vytvořit efektivní strategie pro propagaci vaší akce nebo projektu prostřednictvím našich tištěných a digitálních kanálů.</p>
                                 <p>Níže naleznete podklady pro vaše marketingové týmy, včetně našeho loga a používaných barev, které vám pomohou vytvořit materiály, jež budou v souladu s naším brandem.</p>
@@ -2014,7 +2014,7 @@ Main contain START -->
                         </div>
                     </div>                    
                     <div class="tab-pane" id="tab-7-8">
-                        <div class="row">
+                        <div class="row g-5">
 
 
                             <div class="col-lg-6 mt-0"><!-- Chart START -->

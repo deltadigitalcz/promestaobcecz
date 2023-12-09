@@ -2015,6 +2015,73 @@ Main contain START -->
                     </div>                    
                     <div class="tab-pane" id="tab-7-8">
                         <div class="row">
+
+
+                            <div class="col-lg-6 mt-0"><!-- Chart START -->
+                                <div class="card border"><!-- Card body -->
+                                <div class="card-body pt-0 pb-0">
+                                <div class=""><!-- Avatar detail -->
+                                <div class="d-flex align-items-start"><!-- Avatar -->
+                                <div class="avatar avatar-lg"><img class="avatar-img rounded-circle border border-white border-3 shadow" src="https://www.promestaobce.cz/wp-content/themes/promestaobce/assets/images/avatar/pp.jpg" alt="" /></div>
+                                <!-- Info -->
+                                <div class="ms-3">
+                                <h5 class="mb-0">Petr Pfleger</h5>
+                                <p class="mb-0 small">Jednatel / Vedení časopisu</p>
+
+                                </div>
+                                </div>
+                                </div>
+                                <!-- Information START -->
+                                <div class="row"><!-- Information item -->
+                                <div class="col-md-12">
+                                <ul class="list-group list-group-borderless">
+                                    <li class="list-group-item">Email:
+                                <span class="h6 mb-0"><a href="mailto:petr.pfleger@promestaobce.cz">petr.pfleger@promestaobce.cz</a></span></li>
+                                    <li class="list-group-item">Telefon:
+                                <span class="h6 mb-0">+420 603 198 873</span></li>
+                                </ul>
+                                </div>
+                                </div>
+                                <!-- Information END -->
+
+                                </div>
+                            </div>
+                            <!-- Chart END -->
+
+                            <div class="col-lg-6 mt-0"><!-- Chart START -->
+                                <div class="card border"><!-- Card body -->
+                                <div class="card-body pt-0 pb-0">
+                                <div class=""><!-- Avatar detail -->
+                                <div class="d-flex align-items-start"><!-- Avatar -->
+                                <div class="avatar avatar-lg"><img class="avatar-img rounded-circle border border-white border-3 shadow" src="https://www.promestaobce.cz/wp-content/themes/promestaobce/assets/images/avatar/pp.jpg" alt="" /></div>
+                                <!-- Info -->
+                                <div class="ms-3">
+                                <h5 class="mb-0">Jaroslav Robert</h5>
+                                <p class="mb-0 small">Jednatel / Vedení časopisu</p>
+
+                                </div>
+                                </div>
+                                </div>
+                                <!-- Information START -->
+                                <div class="row"><!-- Information item -->
+                                <div class="col-md-12">
+                                <ul class="list-group list-group-borderless">
+                                    <li class="list-group-item">Email:
+                                <span class="h6 mb-0"><a href="mailto:petr.pfleger@promestaobce.cz">petr.pfleger@promestaobce.cz</a></span></li>
+                                    <li class="list-group-item">Telefon:
+                                <span class="h6 mb-0">+420 603 198 873</span></li>
+                                </ul>
+                                </div>
+                                </div>
+                                <!-- Information END -->
+
+                                </div>
+                            </div>
+                            <!-- Chart END -->                            
+
+
+
+                        
                             <div class="col-12">
                                 <h3>Inzerce</h3>
                                 <p>Máte dotaz ohledně inzerce, chcete vytvořit cenovou nabídku, nebo máte zajem o individuální formát reklamy? Kontaktujte nás.</p>

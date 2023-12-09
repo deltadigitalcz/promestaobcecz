@@ -2006,15 +2006,30 @@ Main contain START -->
                     <div class="tab-pane" id="tab-7-7">
                         <div class="row g-4">
                             <div class="col-12">
-                                <h3>Mediální partnerství:<br>Spolupracujme pro vzájemný úspěch</h3>
-                                <p>V 'PRO města a obce' se aktivně věnujeme rozvoji a podpoře mediálních partnerství. Věříme, že spolupráce s organizacemi a akcemi zaměřenými na veřejnou správu přináší oboustranně prospěšné výsledky. Naše zkušenosti a dosah v oblasti veřejné správy nám umožňují být významnými partnery prestižních akcí a projektů v tomto sektoru, jako je například XYZ.</p>
-                                <p>Pokud máte zájem o vytvoření mediálního partnerství s naším časopisem, neváhejte nás kontaktovat pro další informace. Společně můžeme vytvořit efektivní strategie pro propagaci vaší akce nebo projektu prostřednictvím našich tištěných a digitálních kanálů.</p>
-                                <p>Níže naleznete podklady pro vaše marketingové týmy, včetně našeho loga a používaných barev, které vám pomohou vytvořit materiály, jež budou v souladu s naším brandem.</p>
+
+                                <div class="card border">
+                                    <div class="card-body p-3 pb-0">
+                                        <h3>Mediální partnerství:<br>Spolupracujme pro vzájemný úspěch</h3>
+                                        <p>V 'PRO města a obce' se aktivně věnujeme rozvoji a podpoře mediálních partnerství. Věříme, že spolupráce s organizacemi a akcemi zaměřenými na veřejnou správu přináší oboustranně prospěšné výsledky. Naše zkušenosti a dosah v oblasti veřejné správy nám umožňují být významnými partnery prestižních akcí a projektů v tomto sektoru, jako jsou například Dny malých obci, ISSS, Setkání tajemniku.</p>
+                                        <p>Pokud máte zájem o vytvoření mediálního partnerství s naším časopisem, neváhejte nás kontaktovat pro další informace. Společně můžeme vytvořit efektivní strategie pro propagaci vaší akce nebo projektu prostřednictvím našich tištěných a digitálních kanálů.</p>
+                                        <p>Níže naleznete podklady pro vaše marketingové týmy, včetně našeho loga a používaných barev, které vám pomohou vytvořit materiály, jež budou v souladu s naším brandem.</p>                    
+                                    </div>
+                                </div>
+                
                             </div>
                         </div>
                     </div>                    
                     <div class="tab-pane" id="tab-7-8">
-                        <div class="row g-5">
+                        <div class="row g-3 align-items-center justify-content-between">
+                            <div class="col-md-8">
+                                <h2>Ediční plán 2024</h2>
+                            </div>
+                            <!-- Tab buttons -->
+                            <div class="col-md-3">
+                                <a href="<?php echo get_template_directory_uri() ?>/assets/files/Edicni_plan_PROmo_2024.pdf" target="_blank"class="bg-primary py-2 px-3 text-white rounded ms-2">Stáhnout v PDF</a>
+                            </div>
+                        </div>    
+                        <div class="row">
 
 
                             <div class="col-lg-6 mt-0"><!-- Chart START -->

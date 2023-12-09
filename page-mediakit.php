@@ -1550,7 +1550,7 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>50kB</td>
                                                                 <!-- Table data -->
-                                                                <td>XYZ Kč</td>                                                                
+                                                                <td>8 000 Kč</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
@@ -1575,7 +1575,7 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>100 kB</td>
                                                                 <!-- Table data -->
-                                                                <td>XYZ Kč</td>                                                                
+                                                                <td>10 000 Kč</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
@@ -1601,7 +1601,7 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>100 kB</td>
                                                                 <!-- Table data -->
-                                                                <td>XYZ Kč</td>                                                                
+                                                                <td>10 000 Kč</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
@@ -1627,7 +1627,7 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>-</td>
                                                                 <!-- Table data -->
-                                                                <td>XYZ Kč</td>                                                                
+                                                                <td>20 000 Kč</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
@@ -1637,6 +1637,7 @@ Main contain START -->
                                                         </tbody>
                                                         <!-- Table body END -->
                                                     </table>
+                                                    <p class="mt-2 mb-2">* Cena ja za 1 000 zobrazení banneru</p>
                                                 </div>
                                                 <!-- Table END -->
                                             </div>
@@ -1886,13 +1887,39 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>100 kB</td>
                                                                 <!-- Table data -->
-                                                                <td>XYZ Kč</td>                                                                
+                                                                <td>10 000 Kč</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
                                                                     </div>
                                                                 </td>
-                                                            </tr>      
+                                                            </tr>    
+                                                            <!-- Table row -->
+                                                            <tr>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_08.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_08s.jpg" class="img-fluid rounded" alt=""></a>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <h6 class="mb-0">Mobile Square</h6>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Mobile</span>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>300 x 250 px</td>
+                                                                <!-- Table data -->
+                                                                <td>50kB</td>
+                                                                <!-- Table data -->
+                                                                <td>10 000 Kč</td>                                                                
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <div class="d-flex gap-2">
+                                                                    </div>
+                                                                </td>
+                                                            </tr>                                                               
                                                             <!-- Table row -->
                                                             <tr>
                                                                 <!-- Table data -->
@@ -1912,7 +1939,7 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>-</td>
                                                                 <!-- Table data -->
-                                                                <td>XYZ Kč</td>                                                                
+                                                                <td>18 000 Kč</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
@@ -1938,42 +1965,17 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>100 kB</td>
                                                                 <!-- Table data -->
-                                                                <td>XYZ Kč</td>                                                                
+                                                                <td>Individuální</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
                                                                     </div>
                                                                 </td>
-                                                            </tr>        
-                                                            <!-- Table row -->
-                                                            <tr>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_08.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_08s.jpg" class="img-fluid rounded" alt=""></a>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <h6 class="mb-0">Mobile Square</h6>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Mobile</span>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>300 x 250 px</td>
-                                                                <!-- Table data -->
-                                                                <td>50kB</td>
-                                                                <!-- Table data -->
-                                                                <td>XYZ Kč</td>                                                                
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <div class="d-flex gap-2">
-                                                                    </div>
-                                                                </td>
-                                                            </tr>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+                                                            </tr>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
                                                         </tbody>
                                                         <!-- Table body END -->
                                                     </table>
+                                                    <p class="mt-2 mb-2">* Cena pro PR článek je celková za uveřejnění jak na webu, tak i v newsletteru.</p>
                                                 </div>
                                                 <!-- Table END -->
                                             </div>

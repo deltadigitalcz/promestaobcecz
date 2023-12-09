@@ -2026,7 +2026,7 @@ Main contain START -->
                                 <!-- Info -->
                                 <div class="ms-3">
                                 <h5 class="mb-0">Petr Pfleger</h5>
-                                <p class="mb-0 small">Jednatel / Vedení časopisu</p>
+                                <p class="mb-0 small">Print</p>
 
                                 </div>
                                 </div>
@@ -2053,11 +2053,11 @@ Main contain START -->
                                 <div class="card-body pt-0 pb-0">
                                 <div class=""><!-- Avatar detail -->
                                 <div class="d-flex align-items-start"><!-- Avatar -->
-                                <div class="avatar avatar-lg"><img class="avatar-img rounded-circle border border-white border-3 shadow" src="https://www.promestaobce.cz/wp-content/themes/promestaobce/assets/images/avatar/pp.jpg" alt="" /></div>
+                                <div class="avatar avatar-lg"><img class="avatar-img rounded-circle border border-white border-3 shadow" src="https://www.promestaobce.cz/wp-content/themes/promestaobce/assets/images/avatar/jr.jpg" alt="" /></div>
                                 <!-- Info -->
                                 <div class="ms-3">
                                 <h5 class="mb-0">Jaroslav Robert</h5>
-                                <p class="mb-0 small">Jednatel / Vedení časopisu</p>
+                                <p class="mb-0 small">Online</p>
 
                                 </div>
                                 </div>
@@ -2067,9 +2067,9 @@ Main contain START -->
                                 <div class="col-md-12">
                                 <ul class="list-group list-group-borderless">
                                     <li class="list-group-item">Email:
-                                <span class="h6 mb-0"><a href="mailto:petr.pfleger@promestaobce.cz">petr.pfleger@promestaobce.cz</a></span></li>
+                                <span class="h6 mb-0"><a href="mailto:jaroslav.robert@promestaobce.cz">jaroslav.robert@promestaobce.cz</a></span></li>
                                     <li class="list-group-item">Telefon:
-                                <span class="h6 mb-0">+420 603 198 873</span></li>
+                                <span class="h6 mb-0">+420 770 116 803</span></li>
                                 </ul>
                                 </div>
                                 </div>
@@ -2078,17 +2078,6 @@ Main contain START -->
                                 </div>
                             </div>
                             <!-- Chart END -->                            
-
-
-
-                        
-                            <div class="col-12">
-                                <h3>Inzerce</h3>
-                                <p>Máte dotaz ohledně inzerce, chcete vytvořit cenovou nabídku, nebo máte zajem o individuální formát reklamy? Kontaktujte nás.</p>
-                                <p>Petr Pfleger<br>
-                                Tel.: <a href="tel:+420603198873">+420 603 198 873</a><u></u><br>
-                                Email: <a href="mailto:petr.pfleger@promestaobce.cz"><u>petr.pfleger@promestaobce.cz</u></a></p>
-                            </div>
                         </div>
                     </div>
                 </div>

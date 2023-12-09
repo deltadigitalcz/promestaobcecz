@@ -29,7 +29,7 @@ Main contain START -->
 		<div class="row g-4">
 			<div class="col-12">
                 <ul class="nav nav-tabs nav-tabs-line">
-                    <li class="nav-item"> <a class="nav-link active" data-bs-toggle="tab" href="#tab-7-0">Úvod</li>
+                    <li class="nav-item"> <a class="nav-link active" data-bs-toggle="tab" href="#tab-7-0">Úvod</a> </li>
                     <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-1">Struktura čtenářů</a> </li>
                     <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-2">Ediční plán</a> </li>
                     <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-3">Print</a> </li>
@@ -1308,7 +1308,7 @@ Main contain START -->
                                                 <!-- Table END -->
                                             </div>
                                             <!-- Tabs content item END -->
-                                            <h3>Ostatní reklamní plochy:</h3>
+                                            <h3 class="mt-3">Ostatní reklamní plochy:</h3>
                                             <!-- Tabs content item START -->
                                             <div class="tab-pane fade active show">
                                                 <!-- Table START -->
@@ -1469,6 +1469,10 @@ Main contain START -->
                                         <div class="d-sm-flex justify-content-sm-between align-items-sm-center">
                                             <!-- Content -->
                                             <p class="mb-sm-0 text-center text-sm-start"><strong>Termíny pro předání podkladů:</strong> Hotové předlohy – do 15 pracovních dnů před zveřejněním / Ostatní podklady – do 20 pracovních dnů před zveřejněním</p>
+                                        </div>
+                                        <div class="d-sm-flex justify-content-sm-between align-items-sm-center">
+                                            <!-- Content -->
+                                            <a data-bs-toggle="tab" href="#tab-7-7" class="bg-primary py-2 px-3 text-white rounded ms-2">Mám zájem o cenovou nabídku</a>
                                         </div>
                                         <!-- Pagination END -->
                                     </div>
@@ -1781,10 +1785,16 @@ Main contain START -->
                                         <div class="row g-3 align-items-center justify-content-between">
                                             <!-- Search bar -->
                                             <div class="col-md-8">
-                                                <h2>Přehled inzertních formátů - newsletter</h2>
+                                                <h2>Oslovte čtenáře přímo v jejich rukou</h2>
                                             </div>
                                             <!-- Tab buttons -->
                                             <div class="col-md-3">
+                                                <a href="https://ctecka.promestaobce.cz/prosinec_sdGsG442g/" target="_blank"class="bg-primary py-2 px-3 text-white rounded ms-2">Ukázkové vydání</a>
+                                            </div>
+                                            <div class="col-12">
+                                                <p>Časopisu 'PRO města a obce' poskytuje jedinečnou příležitost pro vaši reklamu. Jako měsíčník jsme prezentováni v tištěné i elektronické formě s nákladem <strong>2500 až 3000 výtisků</strong>. Naše distribuce je cílená a flexibilní, zaměřujeme se na předplatitele a nabízíme řízenou distribuci podle vašich specifikací – od velikosti obce přes pozici příjemce až po konkrétní kraj.</p>
+                                                <p>Navzdory obecnému poklesu tištěných médií náš časopis v cílové skupině veřejné správy stále získává na popularitě. Nabízíme různé formáty reklamy: od tradičních reklamních ploch, přes vklady letáků, až po přiložení dalších materiálů. Nezapomínejte ani na možnost publikace PR článků, které poskytují prostor pro rozšířenou prezentaci vaší značky.</p>
+                                                <p>Prohlédněte si ukázkové vydání a zjistěte, jak může váš inzerát v našem časopise vypadat.</p>
                                             </div>
                                         </div>
                                         <!-- Search and select END -->

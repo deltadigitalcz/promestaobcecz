@@ -42,7 +42,7 @@ Main contain START -->
                     <div class="tab-pane show active" id="tab-7-1">
                         <div class="row">
                             <div id="item-4">
-                                <h4 class="mt-4">Vítejte ve světě 'PRO města a obce'</h4>
+                                <h2 class="mt-4 mb-2">Vítejte ve světě 'PRO města a obce'</h2>
                                 <p>Vážení partneři,<br><br> s potěšením vám představujeme mediakit našeho časopisu 'PRO města a obce', který již deset let slouží jako důvěryhodný a respektovaný zdroj informací ve světě veřejné správy. Připojte se k nám a oslovte cílovou skupinu v oblasti veřejné správy.</p>
                                 <p>Naše cesta začala v roce 2014 a od té doby jsme se stali lídrem na trhu, specializujícím se na poskytování aktuálních a relevantních informací pro starosty, hejtmany, zastupitele a úředníky, ale i pro širokou veřejnost se zájmem o veřejnou správu. Přinášíme praktické rady a nezbytná fakta pro každodenní rozhodování našich čtenářů.</p>
                                 <p>V naší nabídce naleznete jak tradiční tištěné vydání, tak moderní online platformy včetně pravidelných newsletterů. Tímto způsobem zasahujeme široké spektrum čtenářů a zvyšujeme viditelnost vaší značky.</p>
@@ -2011,10 +2011,10 @@ Main contain START -->
 
                                 <div class="card border">
                                     <div class="card-body p-3 pb-0">
-                                        <h3>Mediální partnerství:<br>Spolupracujme pro vzájemný úspěch</h3>
+                                        <h2>Mediální partnerství:<br>Spolupracujme pro vzájemný úspěch</h2>
                                         <p>V 'PRO města a obce' se aktivně věnujeme rozvoji a podpoře mediálních partnerství. Věříme, že spolupráce s organizacemi a akcemi zaměřenými na veřejnou správu přináší oboustranně prospěšné výsledky. Naše zkušenosti a dosah v oblasti veřejné správy nám umožňují být významnými partnery prestižních akcí a projektů v tomto sektoru, jako jsou například Dny malých obci, ISSS, Setkání tajemniku.</p>
                                         <p>Pokud máte zájem o vytvoření mediálního partnerství s naším časopisem, neváhejte nás kontaktovat pro další informace. Společně můžeme vytvořit efektivní strategie pro propagaci vaší akce nebo projektu prostřednictvím našich tištěných a digitálních kanálů.</p>
-                                        <p>Níže naleznete podklady pro vaše marketingové týmy, včetně našeho loga a používaných barev, které vám pomohou vytvořit materiály, jež budou v souladu s naším brandem.</p>                    
+                                        <p>Níže naleznete podklady pro vaše marketingové týmy (naše logo a používané barvy atp.), které vám pomohou vytvořit materiály, jež budou v souladu s naším brandem.</p>                    
                                     </div>
                                 </div>
                 

@@ -29,20 +29,20 @@ Main contain START -->
 		<div class="row g-4">
 			<div class="col-12">
                 <ul class="nav nav-tabs nav-tabs-line">
-                    <li class="nav-item"> <a class="nav-link active" data-bs-toggle="tab" href="#tab-7-0">Úvod</a> </li>
-                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-1">Struktura čtenářů</a> </li>
-                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-2">Ediční plán</a> </li>
-                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-3">Print</a> </li>
-                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-4">Web</a> </li>
-                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-5">Newsletter</a> </li>
-                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-7">Kontakt</a> </li>
+                    <li class="nav-item"> <a class="nav-link active" data-bs-toggle="tab" href="#tab-7-1">Úvod</a> </li>
+                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-2">Struktura čtenářů</a> </li>
+                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-3">Ediční plán</a> </li>
+                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-4">Print</a> </li>
+                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-5">Web</a> </li>
+                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-6">Newsletter</a> </li>
+                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-7">Kontakt & cenová nabídka</a> </li>
                 </ul>
                 <div class="tab-content">
-                    <div class="tab-pane" id="tab-7-0">
+                    <div class="tab-pane" id="tab-7-1">
                         <div class="row">
                             <div id="item-4">
                                 <h4 class="mt-4">Vítejte ve světě 'PRO města a obce'</h4>
-                                <p>Vážení partneři,<br> s potěšením vám představujeme mediakit našeho časopisu 'PRO města a obce', který již deset let slouží jako důvěryhodný a respektovaný zdroj informací ve světě veřejné správy. Připojte se k nám a oslovte cílovou skupinu v oblasti veřejné správy.</p>
+                                <p>Vážení partneři,<br><br> s potěšením vám představujeme mediakit našeho časopisu 'PRO města a obce', který již deset let slouží jako důvěryhodný a respektovaný zdroj informací ve světě veřejné správy. Připojte se k nám a oslovte cílovou skupinu v oblasti veřejné správy.</p>
                                 <p>Naše cesta začala v roce 2014 a od té doby jsme se stali lídrem na trhu, specializujícím se na poskytování aktuálních a relevantních informací pro starosty, hejtmany, zastupitele a úředníky, ale i pro širokou veřejnost se zájmem o veřejnou správu. Přinášíme praktické rady a nezbytná fakta pro každodenní rozhodování našich čtenářů.</p>
                                 <p>V naší nabídce naleznete jak tradiční tištěné vydání, tak moderní online platformy včetně pravidelných newsletterů. Tímto způsobem zasahujeme široké spektrum čtenářů a zvyšujeme viditelnost vaší značky.</p>
                                 <p>V následujících záložkách naleznete detailní informace o možnostech inzerce, včetně ceníku, formátů, rozměrů a statistik, které vám pomohou při výběru ideálního reklamního prostoru.<p>
@@ -50,7 +50,7 @@ Main contain START -->
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane show active" id="tab-7-1">
+                    <div class="tab-pane show active" id="tab-7-2">
                         <div class="row g-2">
                             <div class="col-md-6">
                                 <a href="<?php echo get_template_directory_uri() ?>/assets/images/stat_01.jpg" data-glightbox="" data-gallery="image-popup">
@@ -74,7 +74,7 @@ Main contain START -->
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane" id="tab-7-2">
+                    <div class="tab-pane" id="tab-7-3">
                         <div class="row g-3 align-items-center justify-content-between">
                             <div class="col-md-8">
                                 <h2>Ediční plán 2024</h2>
@@ -1184,7 +1184,7 @@ Main contain START -->
                             </div>                                                                                                                                                                                                                                                      
                         </div>
                     </div>
-                    <div class="tab-pane" id="tab-7-3">
+                    <div class="tab-pane" id="tab-7-4">
                         <div class="row g-4">
                             <div class="col-12">
                                 <!-- Card START -->
@@ -1202,7 +1202,7 @@ Main contain START -->
                                                 <a href="https://ctecka.promestaobce.cz/prosinec_sdGsG442g/" target="_blank"class="bg-primary py-2 px-3 text-white rounded ms-2">Ukázkové vydání</a>
                                             </div>
                                             <div class="col-12">
-                                                <p>Časopisu 'PRO města a obce' poskytuje jedinečnou příležitost pro vaši reklamu. Jako měsíčník jsme prezentováni v tištěné i elektronické formě s nákladem <strong>2500 až 3000 výtisků</strong>. Naše distribuce je cílená a flexibilní, zaměřujeme se na předplatitele a nabízíme řízenou distribuci podle vašich specifikací – od velikosti obce přes pozici příjemce až po konkrétní kraj.</p>
+                                                <p>Časopisu 'PRO města a obce' poskytuje jedinečnou příležitost pro vaši reklamu. Jako měsíčník jsme prezentováni v tištěné i elektronické formě s nákladem <strong>2500 až 3000 výtisků</strong>. Naše distribuce je cílená a flexibilní, zaměřujeme se na předplatitele,ale nabízíme i řízenou distribuci podle vašich specifikací – od velikosti obce přes pozici příjemce až po konkrétní kraj.</p>
                                                 <p>Navzdory obecnému poklesu tištěných médií náš časopis v cílové skupině veřejné správy stále získává na popularitě. Nabízíme různé formáty reklamy: od tradičních reklamních ploch, přes vklady letáků, až po přiložení dalších materiálů. Nezapomínejte ani na možnost publikace PR článků, které poskytují prostor pro rozšířenou prezentaci vaší značky.</p>
                                                 <p>Prohlédněte si ukázkové vydání a zjistěte, jak může váš inzerát v našem časopise vypadat.</p>
                                             </div>
@@ -1470,10 +1470,6 @@ Main contain START -->
                                             <!-- Content -->
                                             <p class="mb-sm-0 text-center text-sm-start"><strong>Termíny pro předání podkladů:</strong> Hotové předlohy – do 15 pracovních dnů před zveřejněním / Ostatní podklady – do 20 pracovních dnů před zveřejněním</p>
                                         </div>
-                                        <div class="d-sm-flex justify-content-sm-between align-items-sm-center">
-                                            <!-- Content -->
-                                            <a data-bs-toggle="tab" href="#tab-7-7" class="bg-primary py-2 px-3 text-white rounded ms-2">Mám zájem o cenovou nabídku</a>
-                                        </div>
                                         <!-- Pagination END -->
                                     </div>
                                     <!-- Card Footer END -->
@@ -1482,7 +1478,7 @@ Main contain START -->
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane" id="tab-7-4">
+                    <div class="tab-pane" id="tab-7-5">
                         <div class="row g-4">
                             <div class="col-12">
                                 <!-- Card START -->
@@ -1774,7 +1770,7 @@ Main contain START -->
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane" id="tab-7-5">
+                    <div class="tab-pane" id="tab-7-6">
                     <div class="row g-4">
                             <div class="col-12">
                                 <!-- Card START -->
@@ -1785,16 +1781,17 @@ Main contain START -->
                                         <div class="row g-3 align-items-center justify-content-between">
                                             <!-- Search bar -->
                                             <div class="col-md-8">
-                                                <h2>Oslovte čtenáře přímo v jejich rukou</h2>
+                                                <h2>Cílená komunikace s vašimi klíčovými zákazníky</h2>
                                             </div>
                                             <!-- Tab buttons -->
                                             <div class="col-md-3">
-                                                <a href="https://ctecka.promestaobce.cz/prosinec_sdGsG442g/" target="_blank"class="bg-primary py-2 px-3 text-white rounded ms-2">Ukázkové vydání</a>
+                                                <a href="https://promestaobce.ecomailapp.cz/campaigns/render/69/6a34a4be99eb75e88b490aa0bbb9ba3b#" target="_blank"class="bg-primary py-2 px-3 text-white rounded ms-2">Ukázkový newsletter</a>
                                             </div>
                                             <div class="col-12">
-                                                <p>Časopisu 'PRO města a obce' poskytuje jedinečnou příležitost pro vaši reklamu. Jako měsíčník jsme prezentováni v tištěné i elektronické formě s nákladem <strong>2500 až 3000 výtisků</strong>. Naše distribuce je cílená a flexibilní, zaměřujeme se na předplatitele a nabízíme řízenou distribuci podle vašich specifikací – od velikosti obce přes pozici příjemce až po konkrétní kraj.</p>
-                                                <p>Navzdory obecnému poklesu tištěných médií náš časopis v cílové skupině veřejné správy stále získává na popularitě. Nabízíme různé formáty reklamy: od tradičních reklamních ploch, přes vklady letáků, až po přiložení dalších materiálů. Nezapomínejte ani na možnost publikace PR článků, které poskytují prostor pro rozšířenou prezentaci vaší značky.</p>
-                                                <p>Prohlédněte si ukázkové vydání a zjistěte, jak může váš inzerát v našem časopise vypadat.</p>
+                                                <p>Naše newslettery poskytují jedinečnou příležitost pro přímou a cílenou komunikaci s vysoce angažovanými čtenáři. Newsletter 'PRO města a obce' vychází každé úterý a je distribuován dvěma hlavním skupinám odběratelů.</p>
+                                                <p>VIP skupina, se zhruba <strong>7000 aktivními odběrateli<strong>, je charakteristická vysokou mírou interakce. Členové této skupiny pravidelně klikají na články a reklamní bannery a aktivně se zapojují do našich pravidelných otázek týdne v newsletteru. Druhou skupinou je přibližně 14000 čtenářů, kteří jsou méně aktivní, ale přesto tvoří důležitou součást naší čtenářské základny.</p>
+                                                <p>S průměrným <strong>Open Rate 32 %</strong> nabízí náš newsletter vynikající příležitost pro efektivní dosažení vaší cílové skupiny. Naše kampaně můžeme cílit specificky podle kraje, velikosti obce či specifické pozice na úřadu, což umožňuje přesně oslovit vámi vybranou demografii.</p>
+                                                <p>Prohlédněte si ukázkové vydání našeho newsletteru a zjistěte, jak může vaše reklama vypadat a působit na naše čtenáře.</p>
                                             </div>
                                         </div>
                                         <!-- Search and select END -->
@@ -1810,6 +1807,7 @@ Main contain START -->
                                             <div class="tab-pane fade active show">
                                                 <!-- Table START -->
                                                 <div class="table-responsive border-0">
+                                                    <h3>Reklamní plochy:</h3>
                                                     <table class="table align-middle p-4 mb-0 table-hover">
                                                         <!-- Table head -->
                                                         <thead class="table-dark">
@@ -1819,6 +1817,7 @@ Main contain START -->
                                                                 <th scope="col" class="border-0">Zařízení</th>
                                                                 <th scope="col" class="border-0">Rozměr</th>
                                                                 <th scope="col" class="border-0">Max. kb</th>
+                                                                <th scope="col" class="border-0">Cena</th>
                                                                 <th scope="col" class="border-0 rounded-end"></th>
                                                             </tr>
                                                         </thead>
@@ -1844,35 +1843,13 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>100 kB</td>
                                                                 <!-- Table data -->
-                                                                <td>
-                                                                    <div class="d-flex gap-2">
-                                                                    </div>
-                                                                </td>
-                                                            </tr>       
-                                                            <!-- Table row -->
-                                                            <tr>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/n_02.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/n_02s.jpg" class="img-fluid rounded" alt=""></a>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <h6 class="mb-0">Partner Newsletteru</h6>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Desktop/Mobile</span>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>cca 120 x 30 px</td>
-                                                                <!-- Table data -->
-                                                                <td>100 kB</td>
+                                                                <td>XYZ Kč</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
                                                                     </div>
                                                                 </td>
-                                                            </tr>        
+                                                            </tr>      
                                                             <!-- Table row -->
                                                             <tr>
                                                                 <!-- Table data -->
@@ -1892,11 +1869,39 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>-</td>
                                                                 <!-- Table data -->
+                                                                <td>XYZ Kč</td>                                                                
+                                                                <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
                                                                     </div>
                                                                 </td>
-                                                            </tr>   
+                                                            </tr>                                                                
+                                                            <!-- Table row -->
+                                                            <tr>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/n_02.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/n_02s.jpg" class="img-fluid rounded" alt=""></a>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <h6 class="mb-0">Partner Newsletteru</h6>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Desktop/Mobile</span>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>cca 120 x 30 px</td>
+                                                                <!-- Table data -->
+                                                                <td>100 kB</td>
+                                                                <!-- Table data -->
+                                                                <td>XYZ Kč</td>                                                                
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <div class="d-flex gap-2">
+                                                                    </div>
+                                                                </td>
+                                                            </tr>        
                                                             <!-- Table row -->
                                                             <tr>
                                                                 <!-- Table data -->
@@ -1915,6 +1920,8 @@ Main contain START -->
                                                                 <td>300 x 250 px</td>
                                                                 <!-- Table data -->
                                                                 <td>50kB</td>
+                                                                <!-- Table data -->
+                                                                <td>XYZ Kč</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">

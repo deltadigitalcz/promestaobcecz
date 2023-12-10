@@ -2024,7 +2024,7 @@ Main contain START -->
                     <div class="tab-pane" id="tab-7-8">
                         <div class="row g-3 align-items-center justify-content-between">
                             <div class="col-md-8">
-                                <h2>Ediční plán 2024</h2>
+                                <h2>Napište nám</h2>
                             </div>
                             <!-- Tab buttons -->
                             <div class="col-md-3">
@@ -2033,12 +2033,20 @@ Main contain START -->
                         </div>    
                         <div class="row">
                             <div class="col-lg-6"><!-- Chart START -->
-                               xxx
+                                <div class="card border">
+                                    <div class="card-body pt-0 pb-0">
+                                        xxx
+                                    </div>
+                                </div>
                             </div>
                             <!-- Chart END -->
 
                             <div class="col-lg-6"><!-- Chart START -->
-                                yyy
+                                <div class="card border">
+                                    <div class="card-body pt-0 pb-0">
+                                        xxx
+                                    </div>
+                                </div>
                             </div>
                             <!-- Chart END -->                            
                         </div>

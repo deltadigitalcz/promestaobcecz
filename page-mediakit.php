@@ -1203,7 +1203,7 @@ Main contain START -->
                                                 <a href="https://ctecka.promestaobce.cz/prosinec_sdGsG442g/" target="_blank"class="bg-primary py-2 px-3 text-white rounded ms-2">Ukázkové vydání</a>
                                             </div>
                                             <div class="col-12">
-                                                <p>Časopisu 'PRO města a obce' poskytuje jedinečnou příležitost pro vaši reklamu. Jako měsíčník jsme prezentováni v tištěné i elektronické formě s nákladem <strong>2500 až 3000 výtisků</strong>. Naše distribuce je cílená a flexibilní, zaměřujeme se na předplatitele,ale nabízíme i řízenou distribuci podle vašich specifikací – od velikosti obce přes pozici příjemce až po konkrétní kraj.</p>
+                                                <p>Časopisu 'PRO města a obce' poskytuje jedinečnou příležitost pro vaši reklamu. Jako měsíčník vycházíme v tištěné i elektronické formě s nákladem <strong>2500 až 3000 výtisků</strong>. Naše distribuce je cílená a flexibilní, zaměřujeme se na předplatitele, ale nabízíme i řízenou distribuci podle vašich specifikací – od velikosti obce, přes pozici příjemce, až po konkrétní kraj.</p>
                                                 <p>Navzdory obecnému poklesu tištěných médií náš časopis v cílové skupině veřejné správy stále získává na popularitě. Nabízíme různé formáty reklamy: od tradičních reklamních ploch, přes vklady letáků, až po přiložení dalších materiálů. Nezapomínejte ani na možnost publikace PR článků, které poskytují prostor pro rozšířenou prezentaci vaší značky.</p>
                                                 <p>Prohlédněte si ukázkové vydání a zjistěte, jak může váš inzerát v našem časopise vypadat.</p>
                                             </div>
@@ -1833,8 +1833,8 @@ Main contain START -->
                                             </div>
                                             <div class="col-12">
                                                 <p>Naše newslettery poskytují jedinečnou příležitost pro přímou a cílenou komunikaci s vysoce angažovanými čtenáři. Newsletter 'PRO města a obce' vychází každé úterý a je distribuován dvěma hlavním skupinám odběratelů.</p>
-                                                <p>VIP skupina, se zhruba <strong>7000 aktivními odběrateli</strong>, je charakteristická vysokou mírou interakce. Členové této skupiny pravidelně klikají na články a reklamní bannery a aktivně se zapojují do našich pravidelných otázek týdne v newsletteru. Druhou skupinou je <strong>přibližně 14000 čtenářů</strong>, kteří jsou méně aktivní, ale přesto tvoří důležitou součást naší čtenářské základny.</p>
-                                                <p>S průměrným <strong>Open Rate 32 %</strong> nabízí náš newsletter vynikající příležitost pro efektivní dosažení vaší cílové skupiny. Naše kampaně můžeme cílit specificky podle kraje, velikosti obce či specifické pozice na úřadu, což umožňuje přesně oslovit vámi vybranou demografii.</p>
+                                                <p>VIP skupina, se zhruba <strong>7000 aktivními odběrateli</strong>, je charakteristická vysokou mírou interakce. Členové této skupiny pravidelně klikají na články a reklamní bannery a aktivně se zapojují do našich pravidelných otázek týdne v newsletteru. Druhou skupinou je <strong>přibližně 14000 odběratelů</strong>, kteří jsou méně aktivní, ale přesto tvoří důležitou součást naší čtenářské základny.</p>
+                                                <p>S průměrným <strong>Open Rate 32 %</strong> nabízí náš newsletter vynikající příležitost pro efektivní dosažení vaší cílové skupiny. Naše kampaně můžeme cílit specificky podle kraje, velikosti obce či specifické pozice na úřadu, což umožňuje přesně oslovit vámi vybranou demografickou skupinu.</p>
                                                 <p>Prohlédněte si ukázkové vydání našeho newsletteru a zjistěte, jak může vaše reklama vypadat a působit na naše čtenáře.</p>
                                             </div>
                                         </div>
@@ -2025,7 +2025,7 @@ Main contain START -->
                                     <div class="card-body p-3 pb-0">
                                         <h2 class="mb-2">Podklady:</h2>
                                         <p>
-                                            <strong>Úkázkové vydání časopisu v PDF:</strong> <a href="https://www.ctecka.promestaobce.cz/prosinec_sdGsG442g/promo_23_11_sd3LPa96.pdf" target="_blank"> Prosinec 2023</a><br>
+                                            <strong>Úkázkové vydání časopisu v PDF:</strong> <a href="https://ctecka.promestaobce.cz/prosinec_sdGsG442g/promo_23_11_sd3LPa96.pdf" target="_blank"> Prosinec 2023</a><br>
                                             <strong>Logo v EPS:</strong> <a href="<?php echo get_template_directory_uri() ?>/assets/files/Pro_Mesta_a_Obce_logo_PRIMARNI.eps" target="_blank"> Stáhnout</a><br>
                                             <strong>Logo v SVG:</strong> <a href="<?php echo get_template_directory_uri() ?>/assets/files/Pro_Mesta_a_Obce_logo_PRIMARNI.svg" target="_blank"> Stáhnout</a><br>
                                             <strong>Logo v PNG:</strong> <a href="<?php echo get_template_directory_uri() ?>/assets/files/Pro_Mesta_a_Obce_logo_PRIMARNI.png" target="_blank"> Stáhnout</a><br>

@@ -2024,6 +2024,13 @@ Main contain START -->
                                 <div class="card border">
                                     <div class="card-body p-3 pb-0">
                                         <h2 class="mb-2">Podklady:</h2>
+                                        <p>
+                                            <strong>Úkázkové vydání časopisu v PDF:</strong> <a href="https://www.ctecka.promestaobce.cz/prosinec_sdGsG442g/promo_23_11_sd3LPa96.pdf" target="_blank"> Prosinec 2023</a><br>
+                                            <strong>Logo v EPS:</strong> <a href="<?php echo get_template_directory_uri() ?>/assets/files/Pro_Mesta_a_Obce_logo_PRIMARNI.eps" target="_blank"> Stáhnout</a><br>
+                                            <strong>Logo v SVG:</strong> <a href="<?php echo get_template_directory_uri() ?>/assets/files/Pro_Mesta_a_Obce_logo_PRIMARNI.svg" target="_blank"> Stáhnout</a><br>
+                                            <strong>Logo v PNG:</strong> <a href="<?php echo get_template_directory_uri() ?>/assets/files/Pro_Mesta_a_Obce_logo_PRIMARNI.png" target="_blank"> Stáhnout</a><br>
+                                            <strong>Použitá primární barva:</strong> #009451<br>
+                                        </p>
                                     </div>
                                 </div>
 

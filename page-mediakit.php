@@ -2035,7 +2035,36 @@ Main contain START -->
                             <div class="col-lg-6"><!-- Chart START -->
                                 <div class="card border">
                                     <div class="card-body pt-0 pb-0">
-                                        <div class="">
+                                        <div class="mt-2 mb-2">
+                                            <div class="d-flex align-items-start">
+                                                <div class="avatar avatar-lg">
+                                                    <img class="avatar-img rounded-circle border border-white border-3 shadow" src="https://www.promestaobce.cz/wp-content/themes/promestaobce/assets/images/avatar/pf.jpg" alt="" />
+                                                </div>
+                                                <div class="ms-3">
+                                                    <h5 class="mb-0">Petr Pfleger</h5>
+                                                    <p class="mb-0 small">Print</p>
+                                                </div>
+                                            </div>
+                                        </div>   
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <ul class="list-group list-group-borderless">
+                                                    <li class="list-group-item">Email:
+                                                        <span class="h6 mb-0"><a href="mailto:petr.pfleger@promestaobce.cz">petr.pfleger@promestaobce.cz</a></span>
+                                                    </li>
+                                                    <li class="list-group-item">Telefon:
+                                                        <span class="h6 mb-0">+420 603 198 873</span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-6"><!-- Chart START -->
+                                <div class="card border">
+                                    <div class="card-body pt-0 pb-0">
+                                        <div class="mt-2 mb-2">
                                             <div class="d-flex align-items-start">
                                                 <div class="avatar avatar-lg">
                                                     <img class="avatar-img rounded-circle border border-white border-3 shadow" src="https://www.promestaobce.cz/wp-content/themes/promestaobce/assets/images/avatar/jr.jpg" alt="" />
@@ -2061,16 +2090,7 @@ Main contain START -->
                                     </div>
                                 </div>
                             </div>
-                            <!-- Chart END -->
-
-                            <div class="col-lg-6"><!-- Chart START -->
-                                <div class="card border">
-                                    <div class="card-body pt-0 pb-0">
-                                        xxx
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Chart END -->                            
+                            <!-- Chart END -->                         
                         </div>
                     </div>
                 </div>

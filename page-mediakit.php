@@ -1550,7 +1550,7 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>50kB</td>
                                                                 <!-- Table data -->
-                                                                <td>8 000 Kč</td>                                                                
+                                                                <td>10 000 Kč</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
@@ -1575,7 +1575,7 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>100 kB</td>
                                                                 <!-- Table data -->
-                                                                <td>10 000 Kč</td>                                                                
+                                                                <td>8 000 Kč</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
@@ -1601,7 +1601,7 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>100 kB</td>
                                                                 <!-- Table data -->
-                                                                <td>10 000 Kč</td>                                                                
+                                                                <td>8 000 Kč</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
@@ -1627,7 +1627,7 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>-</td>
                                                                 <!-- Table data -->
-                                                                <td>20 000 Kč</td>                                                                
+                                                                <td>13 000 Kč</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
@@ -1887,7 +1887,7 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>100 kB</td>
                                                                 <!-- Table data -->
-                                                                <td>10 000 Kč</td>                                                                
+                                                                <td>8 000 Kč</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
@@ -1913,7 +1913,7 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>50kB</td>
                                                                 <!-- Table data -->
-                                                                <td>10 000 Kč</td>                                                                
+                                                                <td>8 000 Kč</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
@@ -1939,7 +1939,7 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>-</td>
                                                                 <!-- Table data -->
-                                                                <td>18 000 Kč</td>                                                                
+                                                                <td>15 000 Kč</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
@@ -2035,7 +2035,29 @@ Main contain START -->
                             <div class="col-lg-6"><!-- Chart START -->
                                 <div class="card border">
                                     <div class="card-body pt-0 pb-0">
-                                        xxx
+                                        <div class="">
+                                            <div class="d-flex align-items-start">
+                                                <div class="avatar avatar-lg">
+                                                    <img class="avatar-img rounded-circle border border-white border-3 shadow" src="https://www.promestaobce.cz/wp-content/themes/promestaobce/assets/images/avatar/jr.jpg" alt="" />
+                                                </div>
+                                                <div class="ms-3">
+                                                    <h5 class="mb-0">Jaroslav Robert</h5>
+                                                    <p class="mb-0 small">Online</p>
+                                                </div>
+                                            </div>
+                                        </div>   
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <ul class="list-group list-group-borderless">
+                                                    <li class="list-group-item">Email:
+                                                        <span class="h6 mb-0"><a href="mailto:jaroslav.robert@promestaobce.cz">jaroslav.robert@promestaobce.cz</a></span>
+                                                    </li>
+                                                    <li class="list-group-item">Telefon:
+                                                        <span class="h6 mb-0">+420 770 116 803</span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div> 
                                     </div>
                                 </div>
                             </div>

@@ -1496,7 +1496,7 @@ Main contain START -->
                                             <div class="col-md-3">
                                             </div>
                                             <div class="col-12">
-                                                <p>Naším webovým portálem 'PRO města a obce' se v roce 2021 otevřel nový digitální svět pro naše čtenáře a inzerenty. Jak se veřejná správa modernizuje a mládne, stále více našich čtenářů přechází z tištěného vydání na digitální platformy. S měsíční návštěvností přes 11000 uživatelů a více než 32000 zobrazeními stránek, náš web představuje silnou platformu pro rozšíření vaší online přítomnosti ve veřejné správě.</p>
+                                                <p>Naším webovým portálem 'PRO města a obce' se v roce 2021 otevřel nový digitální svět pro naše čtenáře a inzerenty. Jak se veřejná správa modernizuje a mládne, stále více našich čtenářů přechází z tištěného vydání na digitální platformy. S měsíční <strong>návštěvností přes 11000 uživatelů a více než 32000 zobrazeními stránek</strong>, náš web představuje silnou platformu pro rozšíření vaší online přítomnosti ve veřejné správě.</p>
                                                 <p>Webový portál má úzké propojení s tištěným časopisem. Často odkazujeme v tištěném vydání na pokračování článků na webu, kde mohou být doplněny audiovizuálními prvky a rozsáhlejší infografikou. Nejčtenější kategorie na našem webu zahrnují Chytré město, Energetiku, IT, Dotace a Finance, Odpady, Kyberbezpečnost.</p>
                                                 <p>Nabízíme klasickou bannerovou reklamu a PR články. S 75 % návštěvníků přistupujících na mobilní verzi našeho webu je naše platforma ideálním místem pro cílenou mobilní reklamu.</p>
                                                 <p>Připojte se k nám v této digitální éře a rozšiřte dosah vaší značky prostřednictvím našeho webového portálu.</p>
@@ -1833,7 +1833,7 @@ Main contain START -->
                                             </div>
                                             <div class="col-12">
                                                 <p>Naše newslettery poskytují jedinečnou příležitost pro přímou a cílenou komunikaci s vysoce angažovanými čtenáři. Newsletter 'PRO města a obce' vychází každé úterý a je distribuován dvěma hlavním skupinám odběratelů.</p>
-                                                <p>VIP skupina, se zhruba <strong>7000 aktivními odběrateli</strong>, je charakteristická vysokou mírou interakce. Členové této skupiny pravidelně klikají na články a reklamní bannery a aktivně se zapojují do našich pravidelných otázek týdne v newsletteru. Druhou skupinou je přibližně 14000 čtenářů, kteří jsou méně aktivní, ale přesto tvoří důležitou součást naší čtenářské základny.</p>
+                                                <p>VIP skupina, se zhruba <strong>7000 aktivními odběrateli</strong>, je charakteristická vysokou mírou interakce. Členové této skupiny pravidelně klikají na články a reklamní bannery a aktivně se zapojují do našich pravidelných otázek týdne v newsletteru. Druhou skupinou je <strong>přibližně 14000 čtenářů</strong>, kteří jsou méně aktivní, ale přesto tvoří důležitou součást naší čtenářské základny.</p>
                                                 <p>S průměrným <strong>Open Rate 32 %</strong> nabízí náš newsletter vynikající příležitost pro efektivní dosažení vaší cílové skupiny. Naše kampaně můžeme cílit specificky podle kraje, velikosti obce či specifické pozice na úřadu, což umožňuje přesně oslovit vámi vybranou demografii.</p>
                                                 <p>Prohlédněte si ukázkové vydání našeho newsletteru a zjistěte, jak může vaše reklama vypadat a působit na naše čtenáře.</p>
                                             </div>
@@ -2098,9 +2098,9 @@ Main contain START -->
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-12"><!-- Chart START -->
+                            <div class="col-lg-12 mt-2"><!-- Chart START -->
                                 <div class="card border">
-                                    <div class="card-body pt-2 pb-2">
+                                    <div class="card-body mt-2 pt-2 pb-2">
                                         <h3>Máte zájem o cenovou nabídku? Napište nám!</h3>
                                         <p>FORM</p>
                                     </div>

@@ -36,7 +36,7 @@ Main contain START -->
                     <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-5">Web</a> </li>
                     <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-6">Newsletter</a> </li>
                     <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-7">Mediální partnerství</a> </li>
-                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-8">Kontakt & cenová nabídka</a> </li>
+                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-8">Kontakt</a> </li>
                 </ul>
                 <div class="tab-content">
                     <div class="tab-pane show active" id="tab-7-1">

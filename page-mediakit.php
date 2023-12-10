@@ -2019,6 +2019,15 @@ Main contain START -->
                                 </div>
                 
                             </div>
+                            <div class="col-12">
+
+                                <div class="card border">
+                                    <div class="card-body p-3 pb-0">
+                                        <h2 class="mb-2">Podklady:</h2>
+                                    </div>
+                                </div>
+
+                            </div>
                         </div>
                     </div>                    
                     <div class="tab-pane" id="tab-7-8">
@@ -2027,18 +2036,17 @@ Main contain START -->
                                 <h2>Napište nám</h2>
                             </div>
                             <!-- Tab buttons -->
-                            <div class="col-md-3">
-                                <a href="<?php echo get_template_directory_uri() ?>/assets/files/Edicni_plan_PROmo_2024.pdf" target="_blank"class="bg-primary py-2 px-3 text-white rounded ms-2">Stáhnout v PDF</a>
+                            <div class="col-md-3"> 
                             </div>
                         </div>    
                         <div class="row">
                             <div class="col-lg-6"><!-- Chart START -->
                                 <div class="card border">
                                     <div class="card-body pt-0 pb-0">
-                                        <div class="mt-2 mb-2">
+                                        <div class="pt-2 mt-2 mb-2">
                                             <div class="d-flex align-items-start">
                                                 <div class="avatar avatar-lg">
-                                                    <img class="avatar-img rounded-circle border border-white border-3 shadow" src="https://www.promestaobce.cz/wp-content/themes/promestaobce/assets/images/avatar/pf.jpg" alt="" />
+                                                    <img class="avatar-img rounded-circle border border-white border-3 shadow" src="https://www.promestaobce.cz/wp-content/themes/promestaobce/assets/images/avatar/pp.jpg" alt="" />
                                                 </div>
                                                 <div class="ms-3">
                                                     <h5 class="mb-0">Petr Pfleger</h5>
@@ -2053,7 +2061,7 @@ Main contain START -->
                                                         <span class="h6 mb-0"><a href="mailto:petr.pfleger@promestaobce.cz">petr.pfleger@promestaobce.cz</a></span>
                                                     </li>
                                                     <li class="list-group-item">Telefon:
-                                                        <span class="h6 mb-0">+420 603 198 873</span>
+                                                        <span class="h6 mb-0"><a href="tel:420603198873">+420 603 198 873</a></span>
                                                     </li>
                                                 </ul>
                                             </div>
@@ -2064,7 +2072,7 @@ Main contain START -->
                             <div class="col-lg-6"><!-- Chart START -->
                                 <div class="card border">
                                     <div class="card-body pt-0 pb-0">
-                                        <div class="mt-2 mb-2">
+                                        <div class="pt-2 mt-2 mb-2">
                                             <div class="d-flex align-items-start">
                                                 <div class="avatar avatar-lg">
                                                     <img class="avatar-img rounded-circle border border-white border-3 shadow" src="https://www.promestaobce.cz/wp-content/themes/promestaobce/assets/images/avatar/jr.jpg" alt="" />
@@ -2082,11 +2090,19 @@ Main contain START -->
                                                         <span class="h6 mb-0"><a href="mailto:jaroslav.robert@promestaobce.cz">jaroslav.robert@promestaobce.cz</a></span>
                                                     </li>
                                                     <li class="list-group-item">Telefon:
-                                                        <span class="h6 mb-0">+420 770 116 803</span>
+                                                        <span class="h6 mb-0"><a href="tel:420770116803">+420 770 116 803</a></span>
                                                     </li>
                                                 </ul>
                                             </div>
                                         </div> 
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-12"><!-- Chart START -->
+                                <div class="card border">
+                                    <div class="card-body pt-2 pb-2">
+                                        <h3>Máte zájem o cenovou nabídku? Napište nám!</h3>
+                                        <p>FORM</p>
                                     </div>
                                 </div>
                             </div>

@@ -2102,7 +2102,8 @@ Main contain START -->
                                 <div class="card border">
                                     <div class="card-body mt-2 pt-2 pb-2">
                                         <h3>Máte zájem o cenovou nabídku? Napište nám!</h3>
-                                        <p>FORM</p>
+                                        <p>Vyplňte prosím níže uvedený formulář a my vás budeme v co nejkratší době kontaktovat.</p>
+                                        <p><?php echo do_shortcode('[contact-form-7 id="fd2d32d" title="Poptávka inzerce"]');  ?></p>
                                     </div>
                                 </div>
                             </div>

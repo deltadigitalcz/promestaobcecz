@@ -43,11 +43,11 @@ Main contain START -->
                         <div class="row">
                             <div id="item-4">
                                 <h2 class="mt-4 mb-2">Vážení obchodní partneři,</h2>
-                                <p>Jsme velice rádi, že na začátku našeho desátého roku existence časopisu PRO města a obce - inspirativní informace pro zastupitele a úředníky Vám můžeme nabídnout pokračování v naši dlouhodobé spolupráci. Velice nás těší, že v komunikaci s veřejnou správou využiváte právě náš odborný měsíčník, webový portál www.promestaobce.cz a náš elektronický zpravodaj PRomoNEWS.Za dobu existence vydavatelství si náš měsíčník získal respekt a důvěru jak mezi našimi čtenáři, tak i mezi Vámi, našimi obchodními partnery a také právě proto se stal lídrem mezi odbornými mesíčníky v segmentu veřejná správa.</p>
+                                <p>jsme velice rádi, že na začátku našeho desátého roku existence časopisu PRO města a obce - inspirativní informace pro zastupitele a úředníky Vám můžeme nabídnout pokračování v naši dlouhodobé spolupráci. Velice nás těší, že v komunikaci s veřejnou správou využiváte právě náš odborný měsíčník, webový portál www.promestaobce.cz a náš elektronický zpravodaj PRomoNEWS.Za dobu existence vydavatelství si náš měsíčník získal respekt a důvěru jak mezi našimi čtenáři, tak i mezi Vámi, našimi obchodními partnery a také právě proto se stal lídrem mezi odbornými mesíčníky v segmentu veřejná správa.</p>
                                 <p>Od samého začátku, od roku 2014, se opíráme o spolupráci se Svazem měst a obcí, Sdružením místních samospráv, Sdružením tajemníků a s řadou dalších organizací, sdružení a ministerstev České republiky. Náš časopis, web i PROmoNEWS využívají starostové, tajemníci, primátoři, hejtmané i volení zastupitelé a vedoucí jednotlivých sekcí krajských, obecních a městských úřadů ke své každodenní práci. Jako zdroj inspirace, poradenství, edukace a dalších odborných článků a rozhovorů.</p>
                                 <p>Jak vyplývá z výže uvedeného, v naší nabídce naleznete jak tradiční tištěné vydání časopisu, tak moderní online platformy včetně pravidelných newsletterů. Tímto způsobem oslovujeme široké spektrum čtenářů a zvyšujeme povědomí o vaší společnosti.</p>
                                 <p>V následujících záložkách naleznete podrobnější informace o možnostech inzerce, včetně ceníků, formátů, rozměrů a statistik, které vám pomohou při výběru ideálního reklamního prostoru pro Vaši společnost.<p>
-                                <p>Pevně věříme, že pokračování naší vzájemné spolupráce bude pro Vás přínosná také v našem „jubilejním“ desátém roce existence PRO města a obce - inspirativní informace pro zastupitele a úředníky.<br><br>S úctou,<br>Tým časopisu 'PRO města a obce'</p>
+                                <p>Pevně věříme, že pokračování naší vzájemné spolupráce bude pro Vás přínosná také v našem „jubilejním“ desátém roce existence PRO města a obce - inspirativní informace pro zastupitele a úředníky.<br><br>S úctou,<br>Tým časopisu PRO města a obce</p>
                             </div>
                         </div>
                     </div>
@@ -1204,7 +1204,7 @@ Main contain START -->
                                             </div>
                                             <div class="col-12">
                                                 <p>Časopisu 'PRO města a obce' poskytuje jedinečnou příležitost pro vaši reklamu. Jako měsíčník vycházíme v tištěné i elektronické formě s nákladem <strong>2500 až 3000 výtisků</strong>. Naše distribuce je cílená a flexibilní, zaměřujeme se na předplatitele, ale nabízíme i řízenou distribuci podle vašich specifikací – od velikosti obce, přes pozici příjemce, až po konkrétní kraj.</p>
-                                                <p>Navzdory obecnému poklesu tištěných médií náš časopis v cílové skupině veřejné správy stále získává na popularitě. Nabízíme různé formáty reklamy: od tradičních reklamních ploch, přes vklady letáků, až po přiložení dalších materiálů. Nezapomínejte ani na možnost publikace PR článků, které poskytují prostor pro rozšířenou prezentaci vaší značky.</p>
+                                                <p>Navzdory obecnému poklesu tištěných médií náš časopis v cílové skupině veřejné správy stále získává na popularitě. Nabízíme různé formáty reklamy: od tradičních reklamních ploch, přes vklady letáků, až po vložení dalších materiálů. Nezapomínejte ani na možnost publikace PR článků, které poskytují prostor pro rozšířenou prezentaci vaší společnosti.</p>
                                                 <p>Prohlédněte si ukázkové vydání a zjistěte, jak může váš inzerát v našem časopise vypadat.</p>
                                             </div>
                                         </div>
@@ -1251,7 +1251,7 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>210 x 297 mm</td>
                                                                 <!-- Table data -->
-                                                                <td>xyz Kč</td>
+                                                                <td>35 000 Kč</td>
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
@@ -1273,7 +1273,7 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>210 x 148 mm</td>
                                                                 <!-- Table data -->
-                                                                <td>xyz Kč</td>                                                                
+                                                                <td>25 000 Kč</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
@@ -1295,13 +1295,35 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>210 x 99 mm</td>
                                                                 <!-- Table data -->
-                                                                <td>xyz Kč</td>                                                                
+                                                                <td>20 000 Kč</td>                                                                
                                                                 <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
                                                                     </div>
                                                                 </td>
-                                                            </tr>                                                        
+                                                            </tr>    
+                                                            <!-- Table row -->
+                                                            <tr>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_02.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_02s.jpg" class="img-fluid rounded" alt=""></a>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <h6 class="mb-0">PR článek</h6>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>-</td>
+                                                                <!-- Table data -->
+                                                                <td></td>
+                                                                <!-- Table data -->
+                                                                <td>individuální</td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <div class="d-flex gap-2">
+                                                                    </div>
+                                                                </td>
+                                                            </tr>                                                     
                                                         </tbody>
                                                         <!-- Table body END -->
                                                     </table>
@@ -1496,7 +1518,7 @@ Main contain START -->
                                             <div class="col-md-3">
                                             </div>
                                             <div class="col-12">
-                                                <p>Naším webovým portálem 'PRO města a obce' se v roce 2021 otevřel nový digitální svět pro naše čtenáře a inzerenty. Jak se veřejná správa modernizuje a mládne, stále více našich čtenářů přechází z tištěného vydání na digitální platformy. S měsíční <strong>návštěvností přes 11000 uživatelů a více než 32000 zobrazeními stránek</strong>, náš web představuje silnou platformu pro rozšíření vaší online přítomnosti ve veřejné správě.</p>
+                                                <p>Naším webovým portálem 'PRO města a obce' se v roce 2021 otevřel nový digitální svět pro naše čtenáře a inzerenty. Jak se veřejná správa modernizuje a mládne, stále více našich čtenářů přechází z tištěného vydání na digitální platformy. S měsíční <strong>návštěvností přes 11 000 uživatelů a více než 32 000 zobrazeními stránek</strong>, náš web představuje silnou platformu pro rozšíření vaší online přítomnosti ve veřejné správě.</p>
                                                 <p>Webový portál má úzké propojení s tištěným časopisem. Často odkazujeme v tištěném vydání na pokračování článků na webu, kde mohou být doplněny audiovizuálními prvky a rozsáhlejší infografikou. Nejčtenější kategorie na našem webu zahrnují Chytré město, Energetiku, IT, Dotace a Finance, Odpady, Kyberbezpečnost.</p>
                                                 <p>Nabízíme klasickou bannerovou reklamu a PR články. S 75 % návštěvníků přistupujících na mobilní verzi našeho webu je naše platforma ideálním místem pro cílenou mobilní reklamu.</p>
                                                 <p>Připojte se k nám v této digitální éře a rozšiřte dosah vaší značky prostřednictvím našeho webového portálu.</p>
@@ -1832,9 +1854,9 @@ Main contain START -->
                                                 <a href="https://promestaobce.ecomailapp.cz/campaigns/render/69/6a34a4be99eb75e88b490aa0bbb9ba3b#" target="_blank"class="bg-primary py-2 px-3 text-white rounded ms-2">Ukázkový newsletter</a>
                                             </div>
                                             <div class="col-12">
-                                                <p>Naše newslettery poskytují jedinečnou příležitost pro přímou a cílenou komunikaci s vysoce angažovanými čtenáři. Newsletter 'PRO města a obce' vychází každé úterý a je distribuován dvěma hlavním skupinám odběratelů.</p>
-                                                <p>VIP skupina, se zhruba <strong>7000 aktivními odběrateli</strong>, je charakteristická vysokou mírou interakce. Členové této skupiny pravidelně klikají na články a reklamní bannery a aktivně se zapojují do našich pravidelných otázek týdne v newsletteru. Druhou skupinou je <strong>přibližně 14000 odběratelů</strong>, kteří jsou méně aktivní, ale přesto tvoří důležitou součást naší čtenářské základny.</p>
-                                                <p>S průměrným <strong>Open Rate 32 %</strong> nabízí náš newsletter vynikající příležitost pro efektivní dosažení vaší cílové skupiny. Naše kampaně můžeme cílit specificky podle kraje, velikosti obce či specifické pozice na úřadu, což umožňuje přesně oslovit vámi vybranou demografickou skupinu.</p>
+                                                <p>Naše newslettery poskytují jedinečnou příležitost pro přímou a cílenou komunikaci s vysoce aktivními čtenáři. Newsletter 'PRO města a obce' vychází každé úterý a je distribuován dvěma hlavním skupinám odběratelů.</p>
+                                                <p>VIP skupina, se zhruba <strong>7 000 aktivními odběrateli</strong>, je charakteristická vysokou mírou interakce. Členové této skupiny pravidelně klikají na články a reklamní bannery a aktivně se zapojují do našich pravidelných otázek v newsletteru. Druhou skupinou je <strong>přibližně 14 000 odběratelů</strong>, kteří jsou méně aktivní, ale přesto tvoří důležitou součást naší čtenářské základny.</p>
+                                                <p>S průměrným <strong>Open Rate 32 %</strong> nabízí náš newsletter vynikající příležitost pro efektivní oslovení vaší cílové skupiny. Vaše kampaně můžete cílit specificky podle kraje, velikosti obce či specifické pozice na úřadu, což umožňuje přesně oslovit vámi vybranou demografickou skupinu.</p>
                                                 <p>Prohlédněte si ukázkové vydání našeho newsletteru a zjistěte, jak může vaše reklama vypadat a působit na naše čtenáře.</p>
                                             </div>
                                         </div>
@@ -2012,7 +2034,7 @@ Main contain START -->
                                 <div class="card border">
                                     <div class="card-body p-3 pb-0">
                                         <h2 class="mb-2">Mediální partnerství:<br>Spolupracujme pro vzájemný úspěch</h2>
-                                        <p>V 'PRO města a obce' se aktivně věnujeme rozvoji a podpoře mediálních partnerství. Věříme, že spolupráce s organizacemi a akcemi zaměřenými na veřejnou správu přináší oboustranně prospěšné výsledky. Naše zkušenosti a dosah v oblasti veřejné správy nám umožňují být významnými partnery prestižních akcí a projektů v tomto sektoru, jako jsou například Dny malých obci, ISSS, Setkání tajemniku.</p>
+                                        <p>V PRO města a obce se aktivně věnujeme rozvoji a podpoře mediálních partnerství. Věříme, že spolupráce s organizacemi a akcemi zaměřenými na veřejnou správu přináší oboustranně prospěšné výsledky. Naše zkušenosti a dosah v oblasti veřejné správy nám umožňují být významnými partnery prestižních akcí a projektů v tomto sektoru, jako jsou například Dny malých obci, ISSS, Manažer roku, Setkání tajemniku a řada dalších eventů a konferencí.</p>
                                         <p>Pokud máte zájem o vytvoření mediálního partnerství s naším časopisem, neváhejte nás kontaktovat pro další informace. Společně můžeme vytvořit efektivní strategie pro propagaci vaší akce nebo projektu prostřednictvím našich tištěných a digitálních kanálů.</p>
                                         <p>Níže naleznete podklady pro vaše marketingové týmy (naše logo a používané barvy atp.), které vám pomohou vytvořit materiály, jež budou v souladu s naším brandem.</p>                    
                                     </div>

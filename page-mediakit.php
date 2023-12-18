@@ -42,12 +42,12 @@ Main contain START -->
                     <div class="tab-pane show active" id="tab-7-1">
                         <div class="row">
                             <div id="item-4">
-                                <h2 class="mt-4 mb-2">Vážení partneři,</h2>
-                                <p>s potěšením vám představujeme mediakit našeho časopisu 'PRO města a obce', který již deset let slouží jako důvěryhodný a respektovaný zdroj informací ve světě veřejné správy. Připojte se k nám a oslovte cílovou skupinu v oblasti veřejné správy.</p>
-                                <p>Naše cesta začala v roce 2014 a od té doby jsme se stali lídrem na trhu, specializujícím se na poskytování aktuálních a relevantních informací pro starosty, hejtmany, zastupitele a úředníky, ale i pro širokou veřejnost se zájmem o veřejnou správu. Přinášíme praktické rady a nezbytná fakta pro každodenní rozhodování našich čtenářů.</p>
-                                <p>V naší nabídce naleznete jak tradiční tištěné vydání, tak moderní online platformy včetně pravidelných newsletterů. Tímto způsobem zasahujeme široké spektrum čtenářů a zvyšujeme viditelnost vaší značky.</p>
-                                <p>V následujících záložkách naleznete detailní informace o možnostech inzerce, včetně ceníku, formátů, rozměrů a statistik, které vám pomohou při výběru ideálního reklamního prostoru.<p>
-                                <p>Jsme přesvědčeni, že vaše spolupráce s námi bude úspěšná a přinese vám hodnotné kontakty a nové příležitosti.<br><br>S úctou,<br>Tým časopisu 'PRO města a obce'</p>
+                                <h2 class="mt-4 mb-2">Vážení obchodní partneři,</h2>
+                                <p>Jsme velice rádi, že na začátku našeho desátého roku existence časopisu PRO města a obce - inspirativní informace pro zastupitele a úředníky Vám můžeme nabídnout pokračování v naši dlouhodobé spolupráci. Velice nás těší, že v komunikaci s veřejnou správou využiváte právě náš odborný měsíčník, webový portál www.promestaobce.cz a náš elektronický zpravodaj PRomoNEWS.Za dobu existence vydavatelství si náš měsíčník získal respekt a důvěru jak mezi našimi čtenáři, tak i mezi Vámi, našimi obchodními partnery a také právě proto se stal lídrem mezi odbornými mesíčníky v segmentu veřejná správa.</p>
+                                <p>Od samého začátku, od roku 2014, se opíráme o spolupráci se Svazem měst a obcí, Sdružením místních samospráv, Sdružením tajemníků a s řadou dalších organizací, sdružení a ministerstev České republiky. Náš časopis, web i PROmoNEWS využívají starostové, tajemníci, primátoři, hejtmané i volení zastupitelé a vedoucí jednotlivých sekcí krajských, obecních a městských úřadů ke své každodenní práci. Jako zdroj inspirace, poradenství, edukace a dalších odborných článků a rozhovorů.</p>
+                                <p>Jak vyplývá z výže uvedeného, v naší nabídce naleznete jak tradiční tištěné vydání časopisu, tak moderní online platformy včetně pravidelných newsletterů. Tímto způsobem oslovujeme široké spektrum čtenářů a zvyšujeme povědomí o vaší společnosti.</p>
+                                <p>V následujících záložkách naleznete podrobnější informace o možnostech inzerce, včetně ceníků, formátů, rozměrů a statistik, které vám pomohou při výběru ideálního reklamního prostoru pro Vaši společnost.<p>
+                                <p>Pevně věříme, že pokračování naší vzájemné spolupráce bude pro Vás přínosná také v našem „jubilejním“ desátém roce existence PRO města a obce - inspirativní informace pro zastupitele a úředníky.<br><br>S úctou,<br>Tým časopisu 'PRO města a obce'</p>
                             </div>
                         </div>
                     </div>

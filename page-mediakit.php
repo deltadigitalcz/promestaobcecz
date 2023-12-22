@@ -43,11 +43,11 @@ Main contain START -->
                         <div class="row">
                             <div id="item-4">
                                 <h2 class="mt-4 mb-2">Vážení obchodní partneři,</h2>
-                                <p>jsme velice rádi, že na začátku našeho desátého roku existence časopisu PRO města a obce - inspirativní informace pro zastupitele a úředníky Vám můžeme nabídnout pokračování v naši dlouhodobé spolupráci. Velice nás těší, že v komunikaci s veřejnou správou využiváte právě náš odborný měsíčník, webový portál www.promestaobce.cz a náš elektronický zpravodaj PRomoNEWS.Za dobu existence vydavatelství si náš měsíčník získal respekt a důvěru jak mezi našimi čtenáři, tak i mezi Vámi, našimi obchodními partnery a také právě proto se stal lídrem mezi odbornými mesíčníky v segmentu veřejná správa.</p>
-                                <p>Od samého začátku, od roku 2014, se opíráme o spolupráci se Svazem měst a obcí, Sdružením místních samospráv, Sdružením tajemníků a s řadou dalších organizací, sdružení a ministerstev České republiky. Náš časopis, web i PROmoNEWS využívají starostové, tajemníci, primátoři, hejtmané i volení zastupitelé a vedoucí jednotlivých sekcí krajských, obecních a městských úřadů ke své každodenní práci. Jako zdroj inspirace, poradenství, edukace a dalších odborných článků a rozhovorů.</p>
-                                <p>Jak vyplývá z výže uvedeného, v naší nabídce naleznete jak tradiční tištěné vydání časopisu, tak moderní online platformy včetně pravidelných newsletterů. Tímto způsobem oslovujeme široké spektrum čtenářů a zvyšujeme povědomí o vaší společnosti.</p>
-                                <p>V následujících záložkách naleznete podrobnější informace o možnostech inzerce, včetně ceníků, formátů, rozměrů a statistik, které vám pomohou při výběru ideálního reklamního prostoru pro Vaši společnost.<p>
-                                <p>Pevně věříme, že pokračování naší vzájemné spolupráce bude pro Vás přínosná také v našem „jubilejním“ desátém roce existence PRO města a obce - inspirativní informace pro zastupitele a úředníky.<br><br>S úctou,<br>Tým časopisu PRO města a obce</p>
+                                <p>jsme velice rádi, že na začátku našeho desátého roku existence časopisu PRO města a obce - inspirativní informace pro zastupitele a úředníky vám můžeme nabídnout pokračování v naší dlouhodobé spolupráci. Velice nás těší, že v komunikaci s veřejnou správou využíváte právě náš odborný měsíčník, webový portál www.promestaobce.cz a náš elektronický zpravodaj PROmoNEWS.Za dobu existence vydavatelství si náš měsíčník získal respekt a důvěru jak mezi našimi čtenáři, tak i mezi vámi, našimi obchodními partnery a také proto se stal lídrem mezi odbornými měsíčníky v segmentu veřejné správy.</p>
+                                <p>Od samého začátku, od roku 2014, se opíráme o spolupráci se Svazem měst a obcí, Sdružením místních samospráv, Sdružením tajemníků a s řadou dalších organizací, sdružení a ministerstev České republiky. Náš časopis, web i PROmoNEWS využívají starostové, tajemníci, primátoři, hejtmané i volení zastupitelé a vedoucí jednotlivých sekcí krajských, obecních a městských úřadů ke své každodenní práci. Odborné články a rozhovory jsou zdrojem inspirace, poradenství a edukace.</p>
+                                <p>Jak vyplývá z výše uvedeného, v naší nabídce naleznete jak tradiční tištěné vydání časopisu, tak moderní online platformy včetně pravidelných newsletterů. Tímto způsobem oslovujeme široké spektrum čtenářů a zvyšujeme povědomí o vaší společnosti.</p>
+                                <p>V následujících záložkách najdete podrobnější informace o možnostech inzerce, včetně ceníků, formátů, rozměrů a statistik, které vám pomohou při výběru ideálního reklamního prostoru pro vaši společnost.<p>
+                                <p>Pevně věříme, že pokračování naší vzájemné spolupráce bude pro vás přínosná také v našem „jubilejním“ desátém roce existence PRO města a obce inspirativní informace pro zastupitele a úředníky.<br><br>S úctou,<br>Tým časopisu PRO města a obce</p>
                             </div>
                         </div>
                     </div>
@@ -103,8 +103,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15.12</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 8.1</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15. 12. 2024</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 8. 1. 2024</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -167,8 +167,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15.1</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 5.2</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15. 1. 2024</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 5. 2. 2024</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -230,8 +230,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 16.2</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 4.3</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 16. 2. 2024</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 4. 3. 2024</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -286,7 +286,7 @@ Main contain START -->
                                                                             <td>
                                                                                 <h6 class="table-title mt-2 mt-md-0 mb-0">ISSS 2024</h6>
                                                                             </td>
-                                                                            <td>13. - 14.5.2024</td>
+                                                                            <td>13. - 14. 5. 2024</td>
                                                                             <td>
                                                                                 <span class="badge bg-success bg-opacity-10 text-success mb-2">Hradec Králové</span>
                                                                             </td>
@@ -304,7 +304,7 @@ Main contain START -->
                                                                             <td>
                                                                                 <h6 class="table-title mt-2 mt-md-0 mb-0">Dny malých obcí</h6>
                                                                             </td>
-                                                                            <td>19. a 26.3.2024</td>
+                                                                            <td>19. a 26. 3. 2024</td>
                                                                             <td>
                                                                                 <span class="badge bg-success bg-opacity-10 text-success mb-2">Olomouc a Praha</span>
                                                                             </td>
@@ -339,8 +339,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 18.3</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 8.4</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 18. 3. 2024</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 8. 4. 2024</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -404,7 +404,7 @@ Main contain START -->
                                                                             <td>
                                                                                 <h6 class="table-title mt-2 mt-md-0 mb-0">Dny teplárenství a energetiky</h6>
                                                                             </td>
-                                                                            <td>23.-24.4.2024</td>
+                                                                            <td>23. - 24. 4. 2024</td>
                                                                             <td>
                                                                                 <span class="badge bg-success bg-opacity-10 text-success mb-2">Olomouc</span>
                                                                             </td>
@@ -413,7 +413,7 @@ Main contain START -->
                                                                             <td>
                                                                                 <h6 class="table-title mt-2 mt-md-0 mb-0">Celostátní setkání tajemníků</h6>
                                                                             </td>
-                                                                            <td>19.-21.5.2024</td>
+                                                                            <td>19. - 21. 5. 2024</td>
                                                                             <td>
                                                                                 <span class="badge bg-success bg-opacity-10 text-success mb-2">Špindlerův mlýn</span>
                                                                             </td>
@@ -457,8 +457,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15.4</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 6.5</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15. 4. 2024</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 6. 5. 2024</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -557,8 +557,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 13.5</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 3.6</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 13. 5. 2024</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 3. 6. 2024</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -648,8 +648,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 10.6</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 1.7</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 10. 6. 2024</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 1. 7. 2024</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -711,8 +711,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15.7</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 5.8</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15. 7. 2024</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 5. 8. 2024</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -774,8 +774,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 12.8</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 2.9</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 12. 8. 2024</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 2. 9. 2024</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -874,8 +874,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 16.9</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 7.10</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 16. 9. 2024</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 7. 10. 2024</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -939,7 +939,7 @@ Main contain START -->
                                                                             <td>
                                                                                 <h6 class="table-title mt-2 mt-md-0 mb-0">Celostátní setkání tajemníků ČR</h6>
                                                                             </td>
-                                                                            <td>13.-15.10.2024</td>
+                                                                            <td>13. - 15. 10. 2024</td>
                                                                             <td>
                                                                                 <span class="badge bg-success bg-opacity-10 text-success mb-2">Tábor</span>
                                                                             </td>
@@ -974,8 +974,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 14.10</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 4.11</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 14. 10. 2024</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 4. 11. 2024</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -1074,8 +1074,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 11.11</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 2.12</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 11. 11. 2024</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 2. 12. 2024</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -1137,8 +1137,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 9.12</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 6.1</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 9. 12. 2024</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 6. 1. 2025</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -1204,7 +1204,7 @@ Main contain START -->
                                             </div>
                                             <div class="col-12">
                                                 <p>Časopisu 'PRO města a obce' poskytuje jedinečnou příležitost pro vaši reklamu. Jako měsíčník vycházíme v tištěné i elektronické formě s nákladem <strong>2500 až 3000 výtisků</strong>. Naše distribuce je cílená a flexibilní, zaměřujeme se na předplatitele, ale nabízíme i řízenou distribuci podle vašich specifikací – od velikosti obce, přes pozici příjemce, až po konkrétní kraj.</p>
-                                                <p>Navzdory obecnému poklesu tištěných médií náš časopis v cílové skupině veřejné správy stále získává na popularitě. Nabízíme různé formáty reklamy: od tradičních reklamních ploch, přes vklady letáků, až po vložení dalších materiálů. Nezapomínejte ani na možnost publikace PR článků, které poskytují prostor pro rozšířenou prezentaci vaší společnosti.</p>
+                                                <p>Navzdory obecnému poklesu tištěných médií náš časopis v cílové skupině veřejné správy stále získává na popularitě. Nabízíme různé formáty reklamy: od tradičních reklamních ploch, přes vklady letáků, až po vložení dalších materiálů. Oblíbená je možnost publikace PR článků a rozhovorů, které poskytují prostor pro rozšířenou prezentaci vaší společnosti.</p>
                                                 <p>Prohlédněte si ukázkové vydání a zjistěte, jak může váš inzerát v našem časopise vypadat.</p>
                                             </div>
                                         </div>
@@ -1518,10 +1518,10 @@ Main contain START -->
                                             <div class="col-md-3">
                                             </div>
                                             <div class="col-12">
-                                                <p>Naším webovým portálem 'PRO města a obce' se v roce 2021 otevřel nový digitální svět pro naše čtenáře a inzerenty. Jak se veřejná správa modernizuje a mládne, stále více našich čtenářů přechází z tištěného vydání na digitální platformy. S měsíční <strong>návštěvností přes 11 000 uživatelů a více než 32 000 zobrazeními stránek</strong>, náš web představuje silnou platformu pro rozšíření vaší online přítomnosti ve veřejné správě.</p>
-                                                <p>Webový portál má úzké propojení s tištěným časopisem. Často odkazujeme v tištěném vydání na pokračování článků na webu, kde mohou být doplněny audiovizuálními prvky a rozsáhlejší infografikou. Nejčtenější kategorie na našem webu zahrnují Chytré město, Energetiku, IT, Dotace a Finance, Odpady, Kyberbezpečnost.</p>
+                                                <p>Naším webovým portálem PRO města a obce se v roce 2021 otevřel nový digitální svět pro naše čtenáře a inzerenty. Jak se veřejná správa modernizuje a mládne, stále více našich čtenářů přechází z tištěného vydání na digitální platformy. S měsíční <strong>návštěvností přes 10 000 uživatelů a více než 28 000 zobrazeními stránek</strong>, představuje náš web silnou platformu pro rozšíření vaší online přítomnosti ve veřejné správě.</p>
+                                                <p>Webový portál má úzké propojení s tištěným časopisem. Často odkazujeme v tištěném vydání na pokračování článků na webu, kde mohou být doplněny audiovizuálními prvky a rozsáhlejší infografikou. Nejčtenější kategorie na našem webu zahrnují Chytré město, Energetiku, IT, Dotace a Finance, Odpady či Kyberbezpečnost.</p>
                                                 <p>Nabízíme klasickou bannerovou reklamu a PR články. S 75 % návštěvníků přistupujících na mobilní verzi našeho webu je naše platforma ideálním místem pro cílenou mobilní reklamu.</p>
-                                                <p>Připojte se k nám v této digitální éře a rozšiřte dosah vaší značky prostřednictvím našeho webového portálu.</p>
+                                                <p>Připojte se k nám v této digitální éře a rozšiřte dosah své značky prostřednictvím našeho webového portálu.</p>
                                             </div>
                                         </div>
                                         <!-- Search and select END -->
@@ -1854,9 +1854,9 @@ Main contain START -->
                                                 <a href="https://promestaobce.ecomailapp.cz/campaigns/render/69/6a34a4be99eb75e88b490aa0bbb9ba3b#" target="_blank"class="bg-primary py-2 px-3 text-white rounded ms-2">Ukázkový newsletter</a>
                                             </div>
                                             <div class="col-12">
-                                                <p>Naše newslettery poskytují jedinečnou příležitost pro přímou a cílenou komunikaci s vysoce aktivními čtenáři. Newsletter 'PRO města a obce' vychází každé úterý a je distribuován dvěma hlavním skupinám odběratelů.</p>
-                                                <p>VIP skupina, se zhruba <strong>7 000 aktivními odběrateli</strong>, je charakteristická vysokou mírou interakce. Členové této skupiny pravidelně klikají na články a reklamní bannery a aktivně se zapojují do našich pravidelných otázek v newsletteru. Druhou skupinou je <strong>přibližně 14 000 odběratelů</strong>, kteří jsou méně aktivní, ale přesto tvoří důležitou součást naší čtenářské základny.</p>
-                                                <p>S průměrným <strong>Open Rate 32 %</strong> nabízí náš newsletter vynikající příležitost pro efektivní oslovení vaší cílové skupiny. Vaše kampaně můžete cílit specificky podle kraje, velikosti obce či specifické pozice na úřadu, což umožňuje přesně oslovit vámi vybranou demografickou skupinu.</p>
+                                                <p>Naše newslettery poskytují jedinečnou příležitost pro přímou a cílenou komunikaci s vysoce aktivními čtenáři. Newsletter PRO města a obce vychází každé úterý a je distribuován dvěma hlavním skupinám odběratelů.</p>
+                                                <p>VIP skupina, se zhruba <strong>7 000 aktivními odběrateli</strong>, je charakteristická vysokou mírou interakce. Členové této skupiny pravidelně klikají na články a reklamní bannery a aktivně se zapojují do našich anketních otázek v newsletteru. Druhou skupinou je <strong>přibližně 14 000 odběratelů</strong>, kteří jsou méně aktivní, ale přesto tvoří důležitou součást naší čtenářské základny.</p>
+                                                <p>S průměrným <strong>open rate 32 %</strong> nabízí náš newsletter vynikající příležitost pro efektivní oslovení vaší cílové skupiny. Vaše kampaně můžete cílit specificky podle kraje, velikosti obce či specifické pozice na úřadu, což umožňuje přesně oslovit vámi vybranou demografickou skupinu.</p>
                                                 <p>Prohlédněte si ukázkové vydání našeho newsletteru a zjistěte, jak může vaše reklama vypadat a působit na naše čtenáře.</p>
                                             </div>
                                         </div>

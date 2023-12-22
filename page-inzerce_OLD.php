@@ -29,29 +29,16 @@ Main contain START -->
 		<div class="row g-4">
 			<div class="col-12">
                 <ul class="nav nav-tabs nav-tabs-line">
-                    <li class="nav-item"> <a class="nav-link active" data-bs-toggle="tab" href="#tab-7-1">Úvod</a> </li>
-                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-2">Struktura čtenářů</a> </li>
-                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-3">Ediční plán</a> </li>
-                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-4">Print</a> </li>
-                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-5">Web</a> </li>
-                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-6">Newsletter</a> </li>
-                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-7">Mediální partnerství</a> </li>
-                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-8">Kontakt</a> </li>
+                    <li class="nav-item"> <a class="nav-link active" data-bs-toggle="tab" href="#tab-7-1">Struktura čtenářů</a> </li>
+                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-2">Ediční plán</a> </li>
+                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-3">Časopis</a> </li>
+                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-4">Web</a> </li>
+                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-5">Newsletter</a> </li>
+                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-6">Kreditový systém <span class="badge bg-danger smaller me-1">Novinka</span></a> </li>
+                    <li class="nav-item"> <a class="nav-link" data-bs-toggle="tab" href="#tab-7-7">Kontakt</a> </li>
                 </ul>
                 <div class="tab-content">
                     <div class="tab-pane show active" id="tab-7-1">
-                        <div class="row">
-                            <div id="item-4">
-                                <h2 class="mt-4 mb-2">Vážení obchodní partneři,</h2>
-                                <p>jsme velice rádi, že na začátku našeho desátého roku existence časopisu PRO města a obce - inspirativní informace pro zastupitele a úředníky vám můžeme nabídnout pokračování v naší dlouhodobé spolupráci. Velice nás těší, že v komunikaci s veřejnou správou využíváte právě náš odborný měsíčník, webový portál www.promestaobce.cz a náš elektronický zpravodaj PROmoNEWS.Za dobu existence vydavatelství si náš měsíčník získal respekt a důvěru jak mezi našimi čtenáři, tak i mezi vámi, našimi obchodními partnery a také proto se stal lídrem mezi odbornými měsíčníky v segmentu veřejné správy.</p>
-                                <p>Od samého začátku, od roku 2014, se opíráme o spolupráci se Svazem měst a obcí, Sdružením místních samospráv, Sdružením tajemníků a s řadou dalších organizací, sdružení a ministerstev České republiky. Náš časopis, web i PROmoNEWS využívají starostové, tajemníci, primátoři, hejtmané i volení zastupitelé a vedoucí jednotlivých sekcí krajských, obecních a městských úřadů ke své každodenní práci. Odborné články a rozhovory jsou zdrojem inspirace, poradenství a edukace.</p>
-                                <p>Jak vyplývá z výše uvedeného, v naší nabídce naleznete jak tradiční tištěné vydání časopisu, tak moderní online platformy včetně pravidelných newsletterů. Tímto způsobem oslovujeme široké spektrum čtenářů a zvyšujeme povědomí o vaší společnosti.</p>
-                                <p>V následujících záložkách najdete podrobnější informace o možnostech inzerce, včetně ceníků, formátů, rozměrů a statistik, které vám pomohou při výběru ideálního reklamního prostoru pro vaši společnost.<p>
-                                <p>Pevně věříme, že pokračování naší vzájemné spolupráce bude pro vás přínosná také v našem „jubilejním“ desátém roce existence PRO města a obce inspirativní informace pro zastupitele a úředníky.<br><br>S úctou,<br>Tým časopisu PRO města a obce</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane" id="tab-7-2">
                         <div class="row g-2">
                             <div class="col-md-6">
                                 <a href="<?php echo get_template_directory_uri() ?>/assets/images/stat_01.jpg" data-glightbox="" data-gallery="image-popup">
@@ -75,7 +62,7 @@ Main contain START -->
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane" id="tab-7-3">
+                    <div class="tab-pane" id="tab-7-2">
                         <div class="row g-3 align-items-center justify-content-between">
                             <div class="col-md-8">
                                 <h2>Ediční plán 2024</h2>
@@ -103,8 +90,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15. 12. 2024</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 8. 1. 2024</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15.12</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 8.1</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -167,8 +154,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15. 1. 2024</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 5. 2. 2024</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15.1</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 5.2</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -230,8 +217,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 16. 2. 2024</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 4. 3. 2024</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 16.2</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 4.3</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -286,7 +273,7 @@ Main contain START -->
                                                                             <td>
                                                                                 <h6 class="table-title mt-2 mt-md-0 mb-0">ISSS 2024</h6>
                                                                             </td>
-                                                                            <td>13. - 14. 5. 2024</td>
+                                                                            <td>13. - 14.5.2024</td>
                                                                             <td>
                                                                                 <span class="badge bg-success bg-opacity-10 text-success mb-2">Hradec Králové</span>
                                                                             </td>
@@ -304,7 +291,7 @@ Main contain START -->
                                                                             <td>
                                                                                 <h6 class="table-title mt-2 mt-md-0 mb-0">Dny malých obcí</h6>
                                                                             </td>
-                                                                            <td>19. a 26. 3. 2024</td>
+                                                                            <td>19. a 26.3.2024</td>
                                                                             <td>
                                                                                 <span class="badge bg-success bg-opacity-10 text-success mb-2">Olomouc a Praha</span>
                                                                             </td>
@@ -339,8 +326,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 18. 3. 2024</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 8. 4. 2024</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 18.3</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 8.4</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -404,7 +391,7 @@ Main contain START -->
                                                                             <td>
                                                                                 <h6 class="table-title mt-2 mt-md-0 mb-0">Dny teplárenství a energetiky</h6>
                                                                             </td>
-                                                                            <td>23. - 24. 4. 2024</td>
+                                                                            <td>23.-24.4.2024</td>
                                                                             <td>
                                                                                 <span class="badge bg-success bg-opacity-10 text-success mb-2">Olomouc</span>
                                                                             </td>
@@ -413,7 +400,7 @@ Main contain START -->
                                                                             <td>
                                                                                 <h6 class="table-title mt-2 mt-md-0 mb-0">Celostátní setkání tajemníků</h6>
                                                                             </td>
-                                                                            <td>19. - 21. 5. 2024</td>
+                                                                            <td>19.-21.5.2024</td>
                                                                             <td>
                                                                                 <span class="badge bg-success bg-opacity-10 text-success mb-2">Špindlerův mlýn</span>
                                                                             </td>
@@ -457,8 +444,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15. 4. 2024</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 6. 5. 2024</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15.4</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 6.5</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -557,8 +544,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 13. 5. 2024</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 3. 6. 2024</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 13.5</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 3.6</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -648,8 +635,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 10. 6. 2024</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 1. 7. 2024</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 10.6</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 1.7</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -711,8 +698,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15. 7. 2024</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 5. 8. 2024</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 15.7</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 5.8</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -774,8 +761,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 12. 8. 2024</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 2. 9. 2024</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 12.8</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 2.9</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -874,8 +861,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 16. 9. 2024</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 7. 10. 2024</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 16.9</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 7.10</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -939,7 +926,7 @@ Main contain START -->
                                                                             <td>
                                                                                 <h6 class="table-title mt-2 mt-md-0 mb-0">Celostátní setkání tajemníků ČR</h6>
                                                                             </td>
-                                                                            <td>13. - 15. 10. 2024</td>
+                                                                            <td>13.-15.10.2024</td>
                                                                             <td>
                                                                                 <span class="badge bg-success bg-opacity-10 text-success mb-2">Tábor</span>
                                                                             </td>
@@ -974,8 +961,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 14. 10. 2024</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 4. 11. 2024</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 14.10</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 4.11</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -1074,8 +1061,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 11. 11. 2024</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 2. 12. 2024</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 11.11</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 2.12</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -1137,8 +1124,8 @@ Main contain START -->
                                             </div>
                                             <!-- Tags -->
                                             <div class="d-flex mt-3 mt-sm-1">
-                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 9. 12. 2024</h6>
-                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 6. 1. 2025</h6>
+                                                <h6 class="bg-danger py-2 px-3 text-white rounded">Uzávěrka 9.12</h6>
+                                                <h6 class="bg-success py-2 px-3 text-white rounded ms-2">Expedice 6.1</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -1185,7 +1172,7 @@ Main contain START -->
                             </div>                                                                                                                                                                                                                                                      
                         </div>
                     </div>
-                    <div class="tab-pane" id="tab-7-4">
+                    <div class="tab-pane" id="tab-7-3">
                         <div class="row g-4">
                             <div class="col-12">
                                 <!-- Card START -->
@@ -1196,16 +1183,10 @@ Main contain START -->
                                         <div class="row g-3 align-items-center justify-content-between">
                                             <!-- Search bar -->
                                             <div class="col-md-8">
-                                                <h2>Časopis Pro města a obce:<br>Oslovte čtenáře přímo v jejich rukou</h2>
+                                                <h2>Přehled inzertních formátů - časopis</h2>
                                             </div>
                                             <!-- Tab buttons -->
                                             <div class="col-md-3">
-                                                <a href="https://ctecka.promestaobce.cz/prosinec_sdGsG442g/" target="_blank"class="bg-primary py-2 px-3 text-white rounded ms-2">Ukázkové vydání</a>
-                                            </div>
-                                            <div class="col-12">
-                                                <p>Časopisu 'PRO města a obce' poskytuje jedinečnou příležitost pro vaši reklamu. Jako měsíčník vycházíme v tištěné i elektronické formě s nákladem <strong>2500 až 3000 výtisků</strong>. Naše distribuce je cílená a flexibilní, zaměřujeme se na předplatitele, ale nabízíme i řízenou distribuci podle vašich specifikací – od velikosti obce, přes pozici příjemce, až po konkrétní kraj.</p>
-                                                <p>Navzdory obecnému poklesu tištěných médií náš časopis v cílové skupině veřejné správy stále získává na popularitě. Nabízíme různé formáty reklamy: od tradičních reklamních ploch, přes vklady letáků, až po vložení dalších materiálů. Oblíbená je možnost publikace PR článků a rozhovorů, které poskytují prostor pro rozšířenou prezentaci vaší společnosti.</p>
-                                                <p>Prohlédněte si ukázkové vydání a zjistěte, jak může váš inzerát v našem časopise vypadat.</p>
                                             </div>
                                         </div>
                                         <!-- Search and select END -->
@@ -1216,122 +1197,7 @@ Main contain START -->
                                     <div class="card-body p-3 pb-0">
                                         <!-- Tabs content START -->
                                         <div class="tab-content py-0 my-0">
-                                            <h3>Nejžádanější reklamní plochy:</h3>
-                                            <!-- Tabs content item START -->
-                                            <div class="tab-pane fade active show">
-                                                <!-- Table START -->
-                                                <div class="table-responsive border-0">
-                                                    <table class="table align-middle p-4 mb-0 table-hover">
-                                                        <!-- Table head -->
-                                                        <thead class="table-dark">
-                                                            <tr>
-                                                                <th scope="col" class="border-0 rounded-start" style="min-width: 50px;"></th>
-                                                                <th scope="col" class="border-0 rounded-start">Typ</th>
-                                                                <th scope="col" class="border-0">Na zrcadlo</th>
-                                                                <th scope="col" class="border-0">Na spad</th>
-                                                                <th scope="col" class="border-0">Cena</th>
-                                                                <th scope="col" class="border-0 rounded-end"></th>
-                                                            </tr>
-                                                        </thead>
 
-                                                        <!-- Table body START -->
-                                                        <tbody class="border-top-0">
-                                                            <!-- Table row -->
-                                                            <tr>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_02.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_02s.jpg" class="img-fluid rounded" alt=""></a>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <h6 class="mb-0">1/1</h6>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>182 x 258 mm</td>
-                                                                <!-- Table data -->
-                                                                <td>210 x 297 mm</td>
-                                                                <!-- Table data -->
-                                                                <td>35 000 Kč</td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <div class="d-flex gap-2">
-                                                                    </div>
-                                                                </td>
-                                                            </tr> 
-                                                            <!-- Table row -->
-                                                            <tr>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_04.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_04s.jpg" class="img-fluid rounded" alt=""></a>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <h6 class="mb-0">1/2</h6>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>182 x 128 mm</td>
-                                                                <!-- Table data -->
-                                                                <td>210 x 148 mm</td>
-                                                                <!-- Table data -->
-                                                                <td>25 000 Kč</td>                                                                
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <div class="d-flex gap-2">
-                                                                    </div>
-                                                                </td>
-                                                            </tr>                                                                                                                 
-                                                            <!-- Table row -->
-                                                            <tr>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_07.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_07s.jpg" class="img-fluid rounded" alt=""></a>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <h6 class="mb-0">1/3</h6>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>182 x 82 mm</td>
-                                                                <!-- Table data -->
-                                                                <td>210 x 99 mm</td>
-                                                                <!-- Table data -->
-                                                                <td>20 000 Kč</td>                                                                
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <div class="d-flex gap-2">
-                                                                    </div>
-                                                                </td>
-                                                            </tr>    
-                                                            <!-- Table row -->
-                                                            <tr>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_02.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_02s.jpg" class="img-fluid rounded" alt=""></a>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <h6 class="mb-0">PR článek</h6>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>-</td>
-                                                                <!-- Table data -->
-                                                                <td></td>
-                                                                <!-- Table data -->
-                                                                <td>individuální</td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <div class="d-flex gap-2">
-                                                                    </div>
-                                                                </td>
-                                                            </tr>                                                     
-                                                        </tbody>
-                                                        <!-- Table body END -->
-                                                    </table>
-                                                </div>
-                                                <!-- Table END -->
-                                            </div>
-                                            <!-- Tabs content item END -->
-                                            <h3 class="mt-3">Ostatní reklamní plochy:</h3>
                                             <!-- Tabs content item START -->
                                             <div class="tab-pane fade active show">
                                                 <!-- Table START -->
@@ -1374,6 +1240,26 @@ Main contain START -->
                                                             <tr>
                                                                 <!-- Table data -->
                                                                 <td>
+                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_02.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_02s.jpg" class="img-fluid rounded" alt=""></a>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <h6 class="mb-0">1/1</h6>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>182 x 258 mm</td>
+                                                                <!-- Table data -->
+                                                                <td>210 x 297 mm</td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <div class="d-flex gap-2">
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                            <!-- Table row -->
+                                                            <tr>
+                                                                <!-- Table data -->
+                                                                <td>
                                                                     <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_03.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_03s.jpg" class="img-fluid rounded" alt=""></a>
                                                                 </td>
                                                                 <!-- Table data -->
@@ -1389,7 +1275,27 @@ Main contain START -->
                                                                     <div class="d-flex gap-2">
                                                                     </div>
                                                                 </td>
-                                                            </tr>                                                                                                                     
+                                                            </tr>       
+                                                            <!-- Table row -->
+                                                            <tr>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_04.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_04s.jpg" class="img-fluid rounded" alt=""></a>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <h6 class="mb-0">1/2</h6>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>182 x 128 mm</td>
+                                                                <!-- Table data -->
+                                                                <td>210 x 148 mm</td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <div class="d-flex gap-2">
+                                                                    </div>
+                                                                </td>
+                                                            </tr>                                                                                                                 
                                                             <!-- Table row -->
                                                             <tr>
                                                                 <!-- Table data -->
@@ -1429,7 +1335,27 @@ Main contain START -->
                                                                     <div class="d-flex gap-2">
                                                                     </div>
                                                                 </td>
-                                                            </tr>                                                
+                                                            </tr>
+                                                            <!-- Table row -->
+                                                            <tr>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_07.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/c_07s.jpg" class="img-fluid rounded" alt=""></a>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <h6 class="mb-0">1/3</h6>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>182 x 82 mm</td>
+                                                                <!-- Table data -->
+                                                                <td>210 x 99 mm</td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <div class="d-flex gap-2">
+                                                                    </div>
+                                                                </td>
+                                                            </tr>                                                        
                                                             <!-- Table row -->
                                                             <tr>
                                                                 <!-- Table data -->
@@ -1501,7 +1427,7 @@ Main contain START -->
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane" id="tab-7-5">
+                    <div class="tab-pane" id="tab-7-4">
                         <div class="row g-4">
                             <div class="col-12">
                                 <!-- Card START -->
@@ -1512,16 +1438,10 @@ Main contain START -->
                                         <div class="row g-3 align-items-center justify-content-between">
                                             <!-- Search bar -->
                                             <div class="col-md-8">
-                                                <h2>Portál Pro města a obce:<br>Digitální rozšíření vaší značky</h2>
+                                                <h2>Přehled inzertních formátů - web</h2>
                                             </div>
                                             <!-- Tab buttons -->
                                             <div class="col-md-3">
-                                            </div>
-                                            <div class="col-12">
-                                                <p>Naším webovým portálem PRO města a obce se v roce 2021 otevřel nový digitální svět pro naše čtenáře a inzerenty. Jak se veřejná správa modernizuje a mládne, stále více našich čtenářů přechází z tištěného vydání na digitální platformy. S měsíční <strong>návštěvností přes 10 000 uživatelů a více než 28 000 zobrazeními stránek</strong>, představuje náš web silnou platformu pro rozšíření vaší online přítomnosti ve veřejné správě.</p>
-                                                <p>Webový portál má úzké propojení s tištěným časopisem. Často odkazujeme v tištěném vydání na pokračování článků na webu, kde mohou být doplněny audiovizuálními prvky a rozsáhlejší infografikou. Nejčtenější kategorie na našem webu zahrnují Chytré město, Energetiku, IT, Dotace a Finance, Odpady či Kyberbezpečnost.</p>
-                                                <p>Nabízíme klasickou bannerovou reklamu a PR články. S 75 % návštěvníků přistupujících na mobilní verzi našeho webu je naše platforma ideálním místem pro cílenou mobilní reklamu.</p>
-                                                <p>Připojte se k nám v této digitální éře a rozšiřte dosah své značky prostřednictvím našeho webového portálu.</p>
                                             </div>
                                         </div>
                                         <!-- Search and select END -->
@@ -1532,7 +1452,7 @@ Main contain START -->
                                     <div class="card-body p-3 pb-0">
                                         <!-- Tabs content START -->
                                         <div class="tab-content py-0 my-0">
-                                            <h3>Nejžádanější reklamní plochy:</h3>
+
                                             <!-- Tabs content item START -->
                                             <div class="tab-pane fade active show">
                                                 <!-- Table START -->
@@ -1546,39 +1466,12 @@ Main contain START -->
                                                                 <th scope="col" class="border-0">Zařízení</th>
                                                                 <th scope="col" class="border-0">Rozměr</th>
                                                                 <th scope="col" class="border-0">Max. kb</th>
-                                                                <th scope="col" class="border-0">Cena</th>
                                                                 <th scope="col" class="border-0 rounded-end"></th>
                                                             </tr>
                                                         </thead>
 
                                                         <!-- Table body START -->
                                                         <tbody class="border-top-0">
-                                                            <!-- Table row -->
-                                                            <tr>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_08.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_08s.jpg" class="img-fluid rounded" alt=""></a>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <h6 class="mb-0">Mobile Square</h6>
-                                                                </td>                                                                
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Mobile</span>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>300 x 250 px</td>
-                                                                <!-- Table data -->
-                                                                <td>50kB</td>
-                                                                <!-- Table data -->
-                                                                <td>10 000 Kč</td>                                                                
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <div class="d-flex gap-2">
-                                                                    </div>
-                                                                </td>
-                                                            </tr>   
                                                             <!-- Table row -->
                                                             <tr>
                                                                 <!-- Table data -->
@@ -1597,93 +1490,11 @@ Main contain START -->
                                                                 <!-- Table data -->
                                                                 <td>100 kB</td>
                                                                 <!-- Table data -->
-                                                                <td>8 000 Kč</td>                                                                
-                                                                <!-- Table data -->
                                                                 <td>
                                                                     <div class="d-flex gap-2">
                                                                     </div>
                                                                 </td>
                                                             </tr>
-                                                            <!-- Table row -->
-                                                            <tr>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_03.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_03s.jpg" class="img-fluid rounded" alt=""></a>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <h6 class="mb-0">Wall Paper</h6>
-                                                                </td>                                                                
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Desktop</span>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>970 x 310 px</td>
-                                                                <!-- Table data -->
-                                                                <td>100 kB</td>
-                                                                <!-- Table data -->
-                                                                <td>8 000 Kč</td>                                                                
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <div class="d-flex gap-2">
-                                                                    </div>
-                                                                </td>
-                                                            </tr>       
-                                                            <!-- Table row -->
-                                                            <tr>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_07.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_07s.jpg" class="img-fluid rounded" alt=""></a>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <h6 class="mb-0">PR článek</h6>
-                                                                </td>                                                                
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Desktop/Mobile</span>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>-</td>
-                                                                <!-- Table data -->
-                                                                <td>-</td>
-                                                                <!-- Table data -->
-                                                                <td>13 000 Kč</td>                                                                
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <div class="d-flex gap-2">
-                                                                    </div>
-                                                                </td>
-                                                            </tr>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
-                                                        </tbody>
-                                                        <!-- Table body END -->
-                                                    </table>
-                                                    <p class="mt-2 mb-2">* Cena ja za 1 000 zobrazení banneru</p>
-                                                </div>
-                                                <!-- Table END -->
-                                            </div>
-                                            <!-- Tabs content item END -->
-                                            <h3 class="mt-4">Ostatní reklamní plochy:</h3>
-                                            <!-- Tabs content item START -->
-                                            <div class="tab-pane fade active show">
-                                                <!-- Table START -->
-                                                <div class="table-responsive border-0">
-                                                    <table class="table align-middle p-4 mb-0 table-hover">
-                                                        <!-- Table head -->
-                                                        <thead class="table-dark">
-                                                            <tr>
-                                                                <th scope="col" class="border-0 rounded-start" style="min-width: 50px;"></th>
-                                                                <th scope="col" class="border-0">Typ</th>
-                                                                <th scope="col" class="border-0">Zařízení</th>
-                                                                <th scope="col" class="border-0">Rozměr</th>
-                                                                <th scope="col" class="border-0">Max. kb</th>
-                                                                <th scope="col" class="border-0 rounded-end"></th>
-                                                            </tr>
-                                                        </thead>
-
-                                                        <!-- Table body START -->
-                                                        <tbody class="border-top-0">
                                                             <!-- Table row -->
                                                             <tr>
                                                                 <!-- Table data -->
@@ -1700,6 +1511,30 @@ Main contain START -->
                                                                 </td>
                                                                 <!-- Table data -->
                                                                 <td>300 x 250 px</td>
+                                                                <!-- Table data -->
+                                                                <td>100 kB</td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <div class="d-flex gap-2">
+                                                                    </div>
+                                                                </td>
+                                                            </tr>  
+                                                            <!-- Table row -->
+                                                            <tr>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_03.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_03s.jpg" class="img-fluid rounded" alt=""></a>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <h6 class="mb-0">Wall Paper</h6>
+                                                                </td>                                                                
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Desktop</span>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>970 x 310 px</td>
                                                                 <!-- Table data -->
                                                                 <td>100 kB</td>
                                                                 <!-- Table data -->
@@ -1784,6 +1619,54 @@ Main contain START -->
                                                             <tr>
                                                                 <!-- Table data -->
                                                                 <td>
+                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_07.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_07s.jpg" class="img-fluid rounded" alt=""></a>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <h6 class="mb-0">PR článek</h6>
+                                                                </td>                                                                
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Desktop/Mobile</span>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>-</td>
+                                                                <!-- Table data -->
+                                                                <td>-</td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <div class="d-flex gap-2">
+                                                                    </div>
+                                                                </td>
+                                                            </tr>   
+                                                            <!-- Table row -->
+                                                            <tr>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_08.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_08s.jpg" class="img-fluid rounded" alt=""></a>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <h6 class="mb-0">Mobile Square</h6>
+                                                                </td>                                                                
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Mobile</span>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>300 x 250 px</td>
+                                                                <!-- Table data -->
+                                                                <td>50kB</td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <div class="d-flex gap-2">
+                                                                    </div>
+                                                                </td>
+                                                            </tr>   
+                                                            <!-- Table row -->
+                                                            <tr>
+                                                                <!-- Table data -->
+                                                                <td>
                                                                     <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_09.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_09s.jpg" class="img-fluid rounded" alt=""></a>
                                                                 </td>
                                                                 <!-- Table data -->
@@ -1807,197 +1690,6 @@ Main contain START -->
                                                         </tbody>
                                                         <!-- Table body END -->
                                                     </table>
-                                                </div>
-                                                <!-- Table END -->
-                                            </div>
-                                            <!-- Tabs content item END -->                                            
-
-                                        </div>
-                                        <!-- Tabs content END -->
-                                    </div>
-                                    <!-- Card body END -->
-
-                                    <!-- Card Footer START -->
-                                    <div class="card-footer p-3">
-                                        <!-- Pagination START -->
-                                        <div class="d-sm-flex justify-content-sm-between align-items-sm-center">
-                                            <!-- Content -->
-                                            <p class="mb-sm-0 text-center text-sm-start">Formát souborů: JPG, PNG, GIF</p>
-                                        </div>
-                                        <div class="d-sm-flex justify-content-sm-between align-items-sm-center">
-                                            <!-- Content -->
-                                            <p class="mb-sm-0 text-center text-sm-start">Partner kategorie: Formát PNG nebo SVG s transparentním pozadím. Ideálně dvě verze loga ( pro tmavé a světlé pozadí ).</p>
-                                        </div>
-                                        <!-- Pagination END -->
-                                    </div>
-                                    <!-- Card Footer END -->
-                                </div>
-                                <!-- Card END -->
-                            </div>
-                        </div>
-                    </div>
-                    <div class="tab-pane" id="tab-7-6">
-                        <div class="row g-4">
-                            <div class="col-12">
-                                <!-- Card START -->
-                                <div class="card border">
-                                    <!-- Card header START -->
-                                    <div class="card-header border-bottom p-3">
-                                        <!-- Search and select START -->
-                                        <div class="row g-3 align-items-center justify-content-between">
-                                            <!-- Search bar -->
-                                            <div class="col-md-8">
-                                                <h2>Newsletter:<br>Cílená komunikace s vašimi klíčovými zákazníky</h2>
-                                            </div>
-                                            <!-- Tab buttons -->
-                                            <div class="col-md-3">
-                                                <a href="https://promestaobce.ecomailapp.cz/campaigns/render/69/6a34a4be99eb75e88b490aa0bbb9ba3b#" target="_blank"class="bg-primary py-2 px-3 text-white rounded ms-2">Ukázkový newsletter</a>
-                                            </div>
-                                            <div class="col-12">
-                                                <p>Naše newslettery poskytují jedinečnou příležitost pro přímou a cílenou komunikaci s vysoce aktivními čtenáři. Newsletter PRO města a obce vychází každé úterý a je distribuován dvěma hlavním skupinám odběratelů.</p>
-                                                <p>VIP skupina, se zhruba <strong>7 000 aktivními odběrateli</strong>, je charakteristická vysokou mírou interakce. Členové této skupiny pravidelně klikají na články a reklamní bannery a aktivně se zapojují do našich anketních otázek v newsletteru. Druhou skupinou je <strong>přibližně 14 000 odběratelů</strong>, kteří jsou méně aktivní, ale přesto tvoří důležitou součást naší čtenářské základny.</p>
-                                                <p>S průměrným <strong>open rate 32 %</strong> nabízí náš newsletter vynikající příležitost pro efektivní oslovení vaší cílové skupiny. Vaše kampaně můžete cílit specificky podle kraje, velikosti obce či specifické pozice na úřadu, což umožňuje přesně oslovit vámi vybranou demografickou skupinu.</p>
-                                                <p>Prohlédněte si ukázkové vydání našeho newsletteru a zjistěte, jak může vaše reklama vypadat a působit na naše čtenáře.</p>
-                                            </div>
-                                        </div>
-                                        <!-- Search and select END -->
-                                    </div>
-                                    <!-- Card header END -->
-
-                                    <!-- Card body START -->
-                                    <div class="card-body p-3 pb-0">
-                                        <!-- Tabs content START -->
-                                        <div class="tab-content py-0 my-0">
-
-                                            <!-- Tabs content item START -->
-                                            <div class="tab-pane fade active show">
-                                                <!-- Table START -->
-                                                <div class="table-responsive border-0">
-                                                    <h3>Reklamní plochy:</h3>
-                                                    <table class="table align-middle p-4 mb-0 table-hover">
-                                                        <!-- Table head -->
-                                                        <thead class="table-dark">
-                                                            <tr>
-                                                                <th scope="col" class="border-0 rounded-start" style="min-width: 50px;"></th>
-                                                                <th scope="col" class="border-0">Typ</th>
-                                                                <th scope="col" class="border-0">Zařízení</th>
-                                                                <th scope="col" class="border-0">Rozměr</th>
-                                                                <th scope="col" class="border-0">Max. kb</th>
-                                                                <th scope="col" class="border-0">Cena</th>
-                                                                <th scope="col" class="border-0 rounded-end"></th>
-                                                            </tr>
-                                                        </thead>
-
-                                                        <!-- Table body START -->
-                                                        <tbody class="border-top-0">
-                                                            <!-- Table row -->
-                                                            <tr>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/n_01.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/n_01s.jpg" class="img-fluid rounded" alt=""></a>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <h6 class="mb-0">Wall Paper</h6>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Desktop</span>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>600 x 250 px</td>
-                                                                <!-- Table data -->
-                                                                <td>100 kB</td>
-                                                                <!-- Table data -->
-                                                                <td>8 000 Kč</td>                                                                
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <div class="d-flex gap-2">
-                                                                    </div>
-                                                                </td>
-                                                            </tr>    
-                                                            <!-- Table row -->
-                                                            <tr>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_08.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_08s.jpg" class="img-fluid rounded" alt=""></a>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <h6 class="mb-0">Mobile Square</h6>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Mobile</span>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>300 x 250 px</td>
-                                                                <!-- Table data -->
-                                                                <td>50kB</td>
-                                                                <!-- Table data -->
-                                                                <td>8 000 Kč</td>                                                                
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <div class="d-flex gap-2">
-                                                                    </div>
-                                                                </td>
-                                                            </tr>                                                               
-                                                            <!-- Table row -->
-                                                            <tr>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_07.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_07s.jpg" class="img-fluid rounded" alt=""></a>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <h6 class="mb-0">PR článek</h6>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Desktop/Mobile</span>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>-</td>
-                                                                <!-- Table data -->
-                                                                <td>-</td>
-                                                                <!-- Table data -->
-                                                                <td>15 000 Kč</td>                                                                
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <div class="d-flex gap-2">
-                                                                    </div>
-                                                                </td>
-                                                            </tr>                                                                
-                                                            <!-- Table row -->
-                                                            <tr>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/n_02.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/n_02s.jpg" class="img-fluid rounded" alt=""></a>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <h6 class="mb-0">Partner Newsletteru</h6>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Desktop/Mobile</span>
-                                                                </td>
-                                                                <!-- Table data -->
-                                                                <td>cca 120 x 30 px</td>
-                                                                <!-- Table data -->
-                                                                <td>100 kB</td>
-                                                                <!-- Table data -->
-                                                                <td>Individuální</td>                                                                
-                                                                <!-- Table data -->
-                                                                <td>
-                                                                    <div class="d-flex gap-2">
-                                                                    </div>
-                                                                </td>
-                                                            </tr>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-                                                        </tbody>
-                                                        <!-- Table body END -->
-                                                    </table>
-                                                    <p class="mt-2 mb-2">* Cena pro PR článek je celková za uveřejnění jak na webu, tak i v newsletteru.</p>
                                                 </div>
                                                 <!-- Table END -->
                                             </div>
@@ -2027,116 +1719,223 @@ Main contain START -->
                             </div>
                         </div>
                     </div>
-                    <div class="tab-pane" id="tab-7-7">
-                        <div class="row g-4">
+                    <div class="tab-pane" id="tab-7-5">
+                    <div class="row g-4">
                             <div class="col-12">
-
+                                <!-- Card START -->
                                 <div class="card border">
-                                    <div class="card-body p-3 pb-0">
-                                        <h2 class="mb-2">Mediální partnerství:<br>Spolupracujme pro vzájemný úspěch</h2>
-                                        <p>V PRO města a obce se aktivně věnujeme rozvoji a podpoře mediálních partnerství. Věříme, že spolupráce s organizacemi a akcemi zaměřenými na veřejnou správu přináší oboustranně prospěšné výsledky. Naše zkušenosti a dosah v oblasti veřejné správy nám umožňují být významnými partnery prestižních akcí a projektů v tomto sektoru, jako jsou například Dny malých obci, ISSS, Manažer roku, Setkání tajemniku a řada dalších eventů a konferencí.</p>
-                                        <p>Pokud máte zájem o vytvoření mediálního partnerství s naším časopisem, neváhejte nás kontaktovat pro další informace. Společně můžeme vytvořit efektivní strategie pro propagaci vaší akce nebo projektu prostřednictvím našich tištěných a digitálních kanálů.</p>
-                                        <p>Níže naleznete podklady pro vaše marketingové týmy (naše logo a používané barvy atp.), které vám pomohou vytvořit materiály, jež budou v souladu s naším brandem.</p>                    
+                                    <!-- Card header START -->
+                                    <div class="card-header border-bottom p-3">
+                                        <!-- Search and select START -->
+                                        <div class="row g-3 align-items-center justify-content-between">
+                                            <!-- Search bar -->
+                                            <div class="col-md-8">
+                                                <h2>Přehled inzertních formátů - newsletter</h2>
+                                            </div>
+                                            <!-- Tab buttons -->
+                                            <div class="col-md-3">
+                                            </div>
+                                        </div>
+                                        <!-- Search and select END -->
                                     </div>
-                                </div>
-                
-                            </div>
-                            <div class="col-12">
+                                    <!-- Card header END -->
 
-                                <div class="card border">
+                                    <!-- Card body START -->
                                     <div class="card-body p-3 pb-0">
-                                        <h2 class="mb-2">Podklady:</h2>
-                                        <p>
-                                            <strong>Úkázkové vydání časopisu v PDF:</strong> <a href="https://ctecka.promestaobce.cz/prosinec_sdGsG442g/promo_23_11_sd3LPa96.pdf" target="_blank"> Prosinec 2023</a><br>
-                                            <strong>Logo v EPS:</strong> <a href="<?php echo get_template_directory_uri() ?>/assets/files/Pro_Mesta_a_Obce_logo_PRIMARNI.eps" target="_blank"> Stáhnout</a><br>
-                                            <strong>Logo v SVG:</strong> <a href="<?php echo get_template_directory_uri() ?>/assets/files/Pro_Mesta_a_Obce_logo_PRIMARNI.svg" target="_blank"> Stáhnout</a><br>
-                                            <strong>Logo v PNG:</strong> <a href="<?php echo get_template_directory_uri() ?>/assets/files/Pro_Mesta_a_Obce_logo_PRIMARNI.png" target="_blank"> Stáhnout</a><br>
-                                            <strong>Použitá primární barva:</strong> #009451<br>
-                                        </p>
-                                    </div>
-                                </div>
+                                        <!-- Tabs content START -->
+                                        <div class="tab-content py-0 my-0">
 
+                                            <!-- Tabs content item START -->
+                                            <div class="tab-pane fade active show">
+                                                <!-- Table START -->
+                                                <div class="table-responsive border-0">
+                                                    <table class="table align-middle p-4 mb-0 table-hover">
+                                                        <!-- Table head -->
+                                                        <thead class="table-dark">
+                                                            <tr>
+                                                                <th scope="col" class="border-0 rounded-start" style="min-width: 50px;"></th>
+                                                                <th scope="col" class="border-0">Typ</th>
+                                                                <th scope="col" class="border-0">Zařízení</th>
+                                                                <th scope="col" class="border-0">Rozměr</th>
+                                                                <th scope="col" class="border-0">Max. kb</th>
+                                                                <th scope="col" class="border-0 rounded-end"></th>
+                                                            </tr>
+                                                        </thead>
+
+                                                        <!-- Table body START -->
+                                                        <tbody class="border-top-0">
+                                                            <!-- Table row -->
+                                                            <tr>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/n_01.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/n_01s.jpg" class="img-fluid rounded" alt=""></a>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <h6 class="mb-0">Wall Paper</h6>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Desktop</span>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>600 x 250 px</td>
+                                                                <!-- Table data -->
+                                                                <td>100 kB</td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <div class="d-flex gap-2">
+                                                                    </div>
+                                                                </td>
+                                                            </tr>       
+                                                            <!-- Table row -->
+                                                            <tr>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/n_02.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/n_02s.jpg" class="img-fluid rounded" alt=""></a>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <h6 class="mb-0">Partner Newsletteru</h6>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Desktop/Mobile</span>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>cca 120 x 30 px</td>
+                                                                <!-- Table data -->
+                                                                <td>100 kB</td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <div class="d-flex gap-2">
+                                                                    </div>
+                                                                </td>
+                                                            </tr>        
+                                                            <!-- Table row -->
+                                                            <tr>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_07.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_07s.jpg" class="img-fluid rounded" alt=""></a>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <h6 class="mb-0">PR článek</h6>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Desktop/Mobile</span>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>-</td>
+                                                                <!-- Table data -->
+                                                                <td>-</td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <div class="d-flex gap-2">
+                                                                    </div>
+                                                                </td>
+                                                            </tr>   
+                                                            <!-- Table row -->
+                                                            <tr>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <a href="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_08.jpg" data-glightbox="" data-gallery="image-popup"><img src="<?php echo get_template_directory_uri() ?>/assets/images/reklamni_plochy/w_08s.jpg" class="img-fluid rounded" alt=""></a>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <h6 class="mb-0">Mobile Square</h6>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <span class="badge bg-warning bg-opacity-15 text-warning mb-2">Mobile</span>
+                                                                </td>
+                                                                <!-- Table data -->
+                                                                <td>300 x 250 px</td>
+                                                                <!-- Table data -->
+                                                                <td>50kB</td>
+                                                                <!-- Table data -->
+                                                                <td>
+                                                                    <div class="d-flex gap-2">
+                                                                    </div>
+                                                                </td>
+                                                            </tr>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
+                                                        </tbody>
+                                                        <!-- Table body END -->
+                                                    </table>
+                                                </div>
+                                                <!-- Table END -->
+                                            </div>
+                                            <!-- Tabs content item END -->
+
+                                        </div>
+                                        <!-- Tabs content END -->
+                                    </div>
+                                    <!-- Card body END -->
+
+                                    <!-- Card Footer START -->
+                                    <div class="card-footer p-3">
+                                        <!-- Pagination START -->
+                                        <div class="d-sm-flex justify-content-sm-between align-items-sm-center">
+                                            <!-- Content -->
+                                            <p class="mb-sm-0 text-center text-sm-start">Formát souborů: JPG, PNG, GIF</p>
+                                        </div>
+                                        <div class="d-sm-flex justify-content-sm-between align-items-sm-center">
+                                            <!-- Content -->
+                                            <p class="mb-sm-0 text-center text-sm-start">Partner kategorie: Formát PNG nebo SVG s transparentním pozadím. Ideálně dvě verze loga ( pro tmavé a světlé pozadí ).</p>
+                                        </div>
+                                        <!-- Pagination END -->
+                                    </div>
+                                    <!-- Card Footer END -->
+                                </div>
+                                <!-- Card END -->
                             </div>
                         </div>
-                    </div>                    
-                    <div class="tab-pane" id="tab-7-8">
-                        <div class="row g-3 align-items-center justify-content-between">
-                            <div class="col-md-8">
-                                <h2>Napište nám</h2>
-                            </div>
-                            <!-- Tab buttons -->
-                            <div class="col-md-3"> 
-                            </div>
-                        </div>    
+                    </div>
+                    <div class="tab-pane" id="tab-7-6">
                         <div class="row">
-                            <div class="col-lg-6"><!-- Chart START -->
-                                <div class="card border">
-                                    <div class="card-body pt-0 pb-0">
-                                        <div class="pt-2 mt-2 mb-2">
-                                            <div class="d-flex align-items-start">
-                                                <div class="avatar avatar-lg">
-                                                    <img class="avatar-img rounded-circle border border-white border-3 shadow" src="https://www.promestaobce.cz/wp-content/themes/promestaobce/assets/images/avatar/pp.jpg" alt="" />
-                                                </div>
-                                                <div class="ms-3">
-                                                    <h5 class="mb-0">Petr Pfleger</h5>
-                                                    <p class="mb-0 small">Print</p>
-                                                </div>
-                                            </div>
-                                        </div>   
-                                        <div class="row">
-                                            <div class="col-md-12">
-                                                <ul class="list-group list-group-borderless">
-                                                    <li class="list-group-item">Email:
-                                                        <span class="h6 mb-0"><a href="mailto:petr.pfleger@promestaobce.cz">petr.pfleger@promestaobce.cz</a></span>
-                                                    </li>
-                                                    <li class="list-group-item">Telefon:
-                                                        <span class="h6 mb-0"><a href="tel:420603198873">+420 603 198 873</a></span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div> 
+                            <div id="item-4">
+                                <h4 class="mt-4">Inzertní kreditový systém</h4>
+                                <p>Vyslyšeli jsme váš požadavek na zvýhodněný balíček inzerce a vytvořili jsme kreditový systém, který můžete využít jakkoliv podle vašich potřeb následujících 12 měsíců od jeho zakoupení. Lze využít jak na inzerci v časopise, tak i na webu promestaobce.cz a newsletteru. Ceny inzerce se vám zastropují na aktuálních cenách, takže v případě růstu cen inzerce vás tato změna neovlivní. Samozřejmě, pokud by cena inzerce klesla, tak klesne cena i vám. Ušetříte si také práci s fakturací, protože vše vyřešíte jednou fakturou ročně. A to nejlepší nakonec, při objednávce kreditu získáte 20-30% kreditu zdarma navíc. </p>
+                                <div class="row">
+                                    <div class="col-md-6 my-3">
+                                        <h4>Výhody</h4>
+                                        <ul class="list-unstyled">
+                                            <li class="my-2 d-flex">
+                                                <i class="fas fa-check-circle text-success me-2 mt-1"></i>Získáte 20-30% kreditu navíc zdarma.</li>
+                                            <li class="my-2 d-flex">
+                                                <i class="fas fa-check-circle text-success me-2 mt-1"></i>Zastropované ceny inzerce.</li>                                                
+                                            <li class="my-2 d-flex">
+                                                <i class="fas fa-check-circle text-success me-2 mt-1"></i>Možnost využít kredit napříč platformami (časopis / web / newsletter).</li>
+                                            <li class="my-2 d-flex">
+                                                <i class="fas fa-check-circle text-success me-2 mt-1"></i>Čerpání kreditu kdykoliv během následujících 12ti měsíců.</li>
+                                            <li class="my-2 d-flex">
+                                                <i class="fas fa-check-circle text-success me-2 mt-1"></i>Možnost využití kreditu pro více klientů (agentury).</li>
+                                            <li class="my-2 d-flex">
+                                                <i class="fas fa-check-circle text-success me-2 mt-1"></i>Fakturace jednou ročně.</li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-6 my-3">
+                                        <h4>Nevýhody</h4>
+                                        <ul class="list-unstyled">
+                                            <li class="my-2 d-flex">
+                                                <i class="fas fa-times-circle text-danger me-2 mt-1"></i>Minimální výše zakoupeného kreditu je 50.000Kč.
+                                            </li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-6"><!-- Chart START -->
-                                <div class="card border">
-                                    <div class="card-body pt-0 pb-0">
-                                        <div class="pt-2 mt-2 mb-2">
-                                            <div class="d-flex align-items-start">
-                                                <div class="avatar avatar-lg">
-                                                    <img class="avatar-img rounded-circle border border-white border-3 shadow" src="https://www.promestaobce.cz/wp-content/themes/promestaobce/assets/images/avatar/jr.jpg" alt="" />
-                                                </div>
-                                                <div class="ms-3">
-                                                    <h5 class="mb-0">Jaroslav Robert</h5>
-                                                    <p class="mb-0 small">Online</p>
-                                                </div>
-                                            </div>
-                                        </div>   
-                                        <div class="row">
-                                            <div class="col-md-12">
-                                                <ul class="list-group list-group-borderless">
-                                                    <li class="list-group-item">Email:
-                                                        <span class="h6 mb-0"><a href="mailto:jaroslav.robert@promestaobce.cz">jaroslav.robert@promestaobce.cz</a></span>
-                                                    </li>
-                                                    <li class="list-group-item">Telefon:
-                                                        <span class="h6 mb-0"><a href="tel:420770116803">+420 770 116 803</a></span>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                        </div> 
-                                    </div>
-                                </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane" id="tab-7-7">
+                        <div class="row">
+                            <div class="col-12">
+                                <h3>Inzerce</h3>
+                                <p>Máte dotaz ohledně inzerce, chcete vytvořit cenovou nabídku, nebo máte zajem o individuální formát reklamy? Kontaktujte nás.</p>
+                                <p>Petr Pfleger<br>
+                                Tel.: <a href="tel:+420603198873">+420 603 198 873</a><u></u><br>
+                                Email: <a href="mailto:petr.pfleger@promestaobce.cz"><u>petr.pfleger@promestaobce.cz</u></a></p>
                             </div>
-                            <div class="col-lg-12 mt-2"><!-- Chart START -->
-                                <div class="card border">
-                                    <div class="card-body mt-2 pt-2 pb-2">
-                                        <h3>Máte zájem o cenovou nabídku? Napište nám!</h3>
-                                        <p>Vyplňte prosím níže uvedený formulář a my vás budeme v co nejkratší době kontaktovat.</p>
-                                        <p><?php echo do_shortcode('[contact-form-7 id="fd2d32d" title="Poptávka inzerce"]');  ?></p>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- Chart END -->                         
                         </div>
                     </div>
                 </div>

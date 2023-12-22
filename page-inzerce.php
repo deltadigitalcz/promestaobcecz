@@ -87,7 +87,7 @@ Main contain START -->
                         </div>    
                         <div class="row">
                             <!-- Leden -->
-                            <div class="col-lg-6 mt-4">
+                            <div class="col-lg-12 mt-3">
                                 <!-- Chart START -->
                                 <div class="card border h-100">
                                     <!-- Card header -->
@@ -151,7 +151,7 @@ Main contain START -->
                                 <!-- Chart END -->
                             </div> 
                             <!-- Únor -->
-                            <div class="col-lg-6 mt-4">
+                            <div class="col-lg-12 mt-3">
                                 <!-- Chart START -->
                                 <div class="card border h-100">
                                     <!-- Card header -->
@@ -214,7 +214,7 @@ Main contain START -->
                                 <!-- Chart END -->
                             </div> 
                             <!-- Březen -->
-                            <div class="col-lg-6 mt-4">
+                            <div class="col-lg-12 mt-3">
                                 <!-- Chart START -->
                                 <div class="card border h-100">
                                     <!-- Card header -->
@@ -323,7 +323,7 @@ Main contain START -->
                                 <!-- Chart END -->
                             </div> 
                             <!-- Duben -->
-                            <div class="col-lg-6 mt-4">
+                            <div class="col-lg-12 mt-3">
                                 <!-- Chart START -->
                                 <div class="card border h-100">
                                     <!-- Card header -->
@@ -441,7 +441,7 @@ Main contain START -->
                                 <!-- Chart END -->
                             </div> 
                             <!-- Květen -->
-                            <div class="col-lg-6 mt-4">
+                            <div class="col-lg-12 mt-3">
                                 <!-- Chart START -->
                                 <div class="card border h-100">
                                     <!-- Card header -->
@@ -541,7 +541,7 @@ Main contain START -->
                                 <!-- Chart END -->
                             </div>
                             <!-- Červen -->
-                            <div class="col-lg-6 mt-4">
+                            <div class="col-lg-12 mt-3">
                                 <!-- Chart START -->
                                 <div class="card border h-100">
                                     <!-- Card header -->
@@ -632,7 +632,7 @@ Main contain START -->
                                 <!-- Chart END -->
                             </div> 
                             <!-- Červenec -->
-                            <div class="col-lg-6 mt-4">
+                            <div class="col-lg-12 mt-3">
                                 <!-- Chart START -->
                                 <div class="card border h-100">
                                     <!-- Card header -->
@@ -695,7 +695,7 @@ Main contain START -->
                                 <!-- Chart END -->
                             </div>    
                             <!-- Srpen -->
-                            <div class="col-lg-6 mt-4">
+                            <div class="col-lg-12 mt-3">
                                 <!-- Chart START -->
                                 <div class="card border h-100">
                                     <!-- Card header -->
@@ -758,7 +758,7 @@ Main contain START -->
                                 <!-- Chart END -->
                             </div>   
                             <!-- Září -->
-                            <div class="col-lg-6 mt-4">
+                            <div class="col-lg-12 mt-3">
                                 <!-- Chart START -->
                                 <div class="card border h-100">
                                     <!-- Card header -->
@@ -858,7 +858,7 @@ Main contain START -->
                                 <!-- Chart END -->
                             </div>    
                             <!-- Říjen -->
-                            <div class="col-lg-6 mt-4">
+                            <div class="col-lg-12 mt-3">
                                 <!-- Chart START -->
                                 <div class="card border h-100">
                                     <!-- Card header -->
@@ -958,7 +958,7 @@ Main contain START -->
                                 <!-- Chart END -->
                             </div> 
                             <!-- Listopad -->
-                            <div class="col-lg-6 mt-4">
+                            <div class="col-lg-12 mt-3">
                                 <!-- Chart START -->
                                 <div class="card border h-100">
                                     <!-- Card header -->
@@ -1058,7 +1058,7 @@ Main contain START -->
                                 <!-- Chart END -->
                             </div>       
                             <!-- Prosinec -->
-                            <div class="col-lg-6 mt-4">
+                            <div class="col-lg-12 mt-3">
                                 <!-- Chart START -->
                                 <div class="card border h-100">
                                     <!-- Card header -->

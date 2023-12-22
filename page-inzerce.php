@@ -1121,7 +1121,7 @@ Main contain START -->
                                 <!-- Chart END -->
                             </div>   
                             <!-- Leden -->
-                            <div class="col-lg-6 mt-4">
+                            <div class="col-lg-12 mt-3">
                                 <!-- Chart START -->
                                 <div class="card border h-100">
                                     <!-- Card header -->

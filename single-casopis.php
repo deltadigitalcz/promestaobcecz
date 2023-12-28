@@ -80,7 +80,7 @@
                         if (strpos($custom_fields['nazev_pdf_full'], "23") !== false) {
                           echo'
                           <div class="row g-2 mb-3">
-                            <a href="'. get_site_url() .'/casopis_promo/'. $custom_fields['nazev_pdf_full'] .'" target="_blank">
+                            <a href="'. $custom_fields['nazev_pdf_full'] .'" target="_blank">
                               <img class="card-img" src="'. wp_get_attachment_image_url( get_post_thumbnail_id( $post->ID ), 'image-420' ) .'"><br>
                               Zobrazit PDF
                             </a>
@@ -103,7 +103,7 @@
                       if (isset($custom_fields['nazev_pdf_full']) && !empty($custom_fields['nazev_pdf_full'])) {
                         echo'
                         <div class="row g-2 mb-3">
-                          <a href="'. get_site_url() .'/casopis_promo/'. $custom_fields['nazev_pdf_full'] .'" target="_blank">
+                          <a href="'. $custom_fields['nazev_pdf_full'] .'" target="_blank">
                             <img class="card-img" src="'. wp_get_attachment_image_url( get_post_thumbnail_id( $post->ID ), 'image-420' ) .'"><br>
                             Zobrazit PDF
                           </a>

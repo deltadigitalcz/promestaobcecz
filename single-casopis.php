@@ -75,28 +75,57 @@
                     // }
                   ?>
                   <?php 
-                    // if($custom_fields['pdf_token'] == $_GET['token']){
-                    //   if (is_file(ABSPATH .'casopis_promo/'. $custom_fields['nazev_pdf_full'])) {}
-                    //   else{
-                    //     echo'
-                    //     <div class="row g-2 mb-3">
-                    //         <img class="card-img" src="'. wp_get_attachment_image_url( get_post_thumbnail_id( $post->ID ), 'image-420' ) .'">
-                    //     </div>';
-                    //   }
-                    // }
-                    // else{
-                    //   if (is_file(ABSPATH .'casopis_promo/'. $custom_fields['nazev_pdf_obsah'])) {}
-                    //   else{
-                    //     echo'
-                    //     <div class="row g-2 mb-3">
-                    //         <img class="card-img" src="'. wp_get_attachment_image_url( get_post_thumbnail_id( $post->ID ), 'image-420' ) .'">
-                    //     </div>';
-                    //   }
-                    // }
-                    echo'
-                    <div class="row g-2 mb-3">
-                        <img class="card-img" src="'. wp_get_attachment_image_url( get_post_thumbnail_id( $post->ID ), 'image-420' ) .'">
-                    </div>';
+                    if( $_GET['token'] == "dfnk3F3SF"){
+                      if (isset($custom_fields['nazev_pdf_full']) && !empty($custom_fields['nazev_pdf_full'])) {
+                        if (strpos($custom_fields['nazev_pdf_full'], "23") !== false) {
+                          echo'
+                          <div class="row g-2 mb-3">
+                            <a href="'. get_site_url() .'/casopis_promo/'. $custom_fields['nazev_pdf_full'] .'" target="_blank">
+                              <img class="card-img" src="'. wp_get_attachment_image_url( get_post_thumbnail_id( $post->ID ), 'image-420' ) .'"><br>
+                              Zobrazit PDF
+                            </a>
+                          </div>';
+                        } else {
+                          echo'
+                          <div class="row g-2 mb-3">
+                              <img class="card-img" src="'. wp_get_attachment_image_url( get_post_thumbnail_id( $post->ID ), 'image-420' ) .'">
+                          </div>';
+                        }
+                      }
+                      else{
+                        echo'
+                        <div class="row g-2 mb-3">
+                            <img class="card-img" src="'. wp_get_attachment_image_url( get_post_thumbnail_id( $post->ID ), 'image-420' ) .'">
+                        </div>';
+                      }
+                    }
+                    elseif($custom_fields['pdf_token'] == $_GET['token']){
+                      if (isset($custom_fields['nazev_pdf_full']) && !empty($custom_fields['nazev_pdf_full'])) {
+                        echo'
+                        <div class="row g-2 mb-3">
+                          <a href="'. get_site_url() .'/casopis_promo/'. $custom_fields['nazev_pdf_full'] .'" target="_blank">
+                            <img class="card-img" src="'. wp_get_attachment_image_url( get_post_thumbnail_id( $post->ID ), 'image-420' ) .'"><br>
+                            Zobrazit PDF
+                          </a>
+                        </div>';
+                      }
+                      else{
+                        echo'
+                        <div class="row g-2 mb-3">
+                            <img class="card-img" src="'. wp_get_attachment_image_url( get_post_thumbnail_id( $post->ID ), 'image-420' ) .'">
+                        </div>';
+                      }
+                    }
+                    else{
+                      echo'
+                      <div class="row g-2 mb-3">
+                          <img class="card-img" src="'. wp_get_attachment_image_url( get_post_thumbnail_id( $post->ID ), 'image-420' ) .'">
+                      </div>';
+                    }
+                    // echo'
+                    // <div class="row g-2 mb-3">
+                    //     <img class="card-img" src="'. wp_get_attachment_image_url( get_post_thumbnail_id( $post->ID ), 'image-420' ) .'">
+                    // </div>';
                   ?>     
                   <?php get_template_part( 'template-parts/share-button' ); ?>
                   <?php

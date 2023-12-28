@@ -77,7 +77,7 @@
                   <?php 
                     if( $_GET['token'] == "dfnk3F3SF"){
                       if (isset($custom_fields['nazev_pdf_full']) && !empty($custom_fields['nazev_pdf_full'])) {
-                        if (strpos($custom_fields['nazev_pdf_full'], "23") !== false) {
+                        if (strpos(get_permalink(), "2023") !== false) {
                           echo'
                           <div class="row g-2 mb-3">
                             <a href="'. $custom_fields['nazev_pdf_full'] .'" target="_blank">

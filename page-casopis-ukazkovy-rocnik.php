@@ -1,6 +1,19 @@
 <?php
 if(isset($_GET['promokod']) && $_GET['promokod'] == "cdfk3D54fa"){
 
+    $args = array( 
+        'posts_per_page' => '12',
+        'paged' => $paged,
+        'post_type' => 'casopis',
+        'orderby' => 'date',
+        'order' => 'DESC',
+        'date_query' => array(
+            array(
+                'year' => 2023,
+            ),
+        ),
+    );
+    
 }
 else{
     header("Location: https://www.promestaobce.cz");
@@ -35,18 +48,6 @@ Inner intro END --></div>
 <?php
 $paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
 
-$args = array( 
-    'posts_per_page' => '12',
-    'paged' => $paged,
-    'post_type' => 'casopis',
-    'orderby' => 'date',
-    'order' => 'DESC',
-    'date_query' => array(
-        array(
-            'year' => 2023,
-        ),
-    ),
-);
 $posts = new WP_Query( $args );
 ?>
 

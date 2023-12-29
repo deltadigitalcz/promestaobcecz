@@ -1,5 +1,14 @@
-<?php get_header() ?>
+<?php
+if(isset($_GET['promokod']) && $_GET['promokod'] == "cdfk3D54fa"){
 
+}
+else{
+    header("Location: https://www.promestaobce.cz");
+    exit();
+}
+
+?>
+<?php get_header() ?>
 
 <main>
 
@@ -13,7 +22,7 @@ Inner intro START -->
         <!-- breadcrumb -->
         <nav class="d-flex justify-content-center" aria-label="breadcrumb">
           <ol class="breadcrumb breadcrumb-dots mb-0">
-            <li class="breadcrumb-item"><a href="<?php echo get_home_url(); ?>"><i class="bi bi-house me-1"></i> XXXTitulní stránka</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo get_home_url(); ?>"><i class="bi bi-house me-1"></i> Titulní stránka</a></li>
             <li class="breadcrumb-item active">Časopis</li>
           </ol>
         </nav>      
@@ -27,11 +36,16 @@ Inner intro END --></div>
 $paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
 
 $args = array( 
-    'posts_per_page' => '20',
+    'posts_per_page' => '12',
     'paged' => $paged,
     'post_type' => 'casopis',
-	'orderby'          => 'date',
-	'order' => 'DESC',
+    'orderby' => 'date',
+    'order' => 'DESC',
+    'date_query' => array(
+        array(
+            'year' => 2023,
+        ),
+    ),
 );
 $posts = new WP_Query( $args );
 ?>
@@ -53,6 +67,9 @@ Main content START -->
 				<?php
                     if ( $posts->have_posts() ) :
                         while ( $posts->have_posts() ) : $posts->the_post();  ?>
+                            <?php
+                            $custom_fields = get_fields( $post->ID );
+                            ?>
                           	<!-- Card item START -->
 							<div class="col-sm-6 col-lg-3">
 								<div class="card mb-4">
@@ -61,10 +78,11 @@ Main content START -->
 										<img class="card-img" src="<?php echo wp_get_attachment_image_url( get_post_thumbnail_id( $post->ID ), 'image-420' ) ?>" alt="<?php echo esc_attr( $post->post_title ) ?>">
 									</div>
 									<div class="card-body px-0 pt-3">
-										<h4 class="card-title"><a href="<?php echo get_permalink( $post->ID ) ?>" class="btn-link text-reset stretched-link fw-bold"><?php echo esc_attr( $post->post_title ) ?></a></h4>
+										<h4 class="card-title"><a href="<?php echo $custom_fields['nazev_pdf_full']; ?>" target="_blank" class="btn-link text-reset stretched-link fw-bold"><?php echo esc_attr( $post->post_title ) ?></a></h4>
 									</div>
 								</div>
 							</div>
+                            <?php unset($custom_fields); ?>
 							<!-- Card item END -->
                         <?php endwhile; ?>
                     <?php endif; ?>

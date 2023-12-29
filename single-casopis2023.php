@@ -32,11 +32,6 @@ $args = array(
     'post_type' => 'casopis',
 	'orderby'          => 'date',
 	'order' => 'DESC',
-    'date_query' => array(
-        array(
-            'year' => 2023,
-        ),
-    ),
 );
 $posts = new WP_Query( $args );
 ?>

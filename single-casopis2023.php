@@ -13,7 +13,7 @@ Inner intro START -->
         <!-- breadcrumb -->
         <nav class="d-flex justify-content-center" aria-label="breadcrumb">
           <ol class="breadcrumb breadcrumb-dots mb-0">
-            <li class="breadcrumb-item"><a href="<?php echo get_home_url(); ?>"><i class="bi bi-house me-1"></i> Titulní stránka</a></li>
+            <li class="breadcrumb-item"><a href="<?php echo get_home_url(); ?>"><i class="bi bi-house me-1"></i> XXXTitulní stránka</a></li>
             <li class="breadcrumb-item active">Časopis</li>
           </ol>
         </nav>      
